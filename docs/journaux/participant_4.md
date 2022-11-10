@@ -1,5 +1,5 @@
 # Journal de "Pénélope Morrisson"
-![portrait du participant ](medias/penelope.jpg)
+![portrait du participant ](medias/penelope1.jpg)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
