@@ -76,8 +76,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Liste des équipements requis par département 
 
 
-* Audio
- *haut-parleur
+
+
 
 * Lumière
     * LED tube ws 2815?
@@ -89,8 +89,9 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 1 ordinateur portable 
     
 * Autre
-    *détecteur rotation des pédales
-    *microControleur
+    * détecteur de rotation des pédales
+    * miniControleur
+    
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
