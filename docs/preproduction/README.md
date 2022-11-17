@@ -118,7 +118,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-![Budget prévisionnel](medias/capture_budget_LumaSol.png)
+![Budget prévisionnel](medias/capture_budget_LumaSol.PNG)
 
 [Lien vers document](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1750998_cmontmorency_qc_ca/EXqkXm99rPFGvh0DrXiERdsBS-l8X0qSRT5-CaJ0g_T6aQ?e=SuxA1h)
 
