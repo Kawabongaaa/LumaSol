@@ -106,18 +106,17 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Formaté en liste ou en lien vers un tableur Excel.
 
 * TTP, location de matériel
-* Personne X, performeuse
+* interacteur X
 * Etc.
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
-* Grand studio
-    * Projection vidéo dans le cyclo
-    * Captation vidéo
+* Terrain face à l'école
+   
+    
 
-* Petit studio
-    * Enregsitrement audio
+
 
 ## Contraintes techniques et potentiels problèmes de production
 > Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
