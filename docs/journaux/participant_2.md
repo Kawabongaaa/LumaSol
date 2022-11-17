@@ -1,5 +1,6 @@
 # Journal de "Skayla Stimphil"
-![MicrosoftTeams-image](https://user-images.githubusercontent.com/90851580/202487857-824ba0f7-41d0-4bb6-905d-4524dbb7598a.png)
+![MicrosoftTeams-image](![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/90851580/202489002-9d6cb374-df40-421e-bed5-80f598e36fa2.png)
+)
 )
 
 
