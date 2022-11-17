@@ -28,7 +28,7 @@
 
 # Intention ou concept
 ## Cartographie
-> Exemples:
+
 
 ![Cartographie](medias/michael1.png)
 
