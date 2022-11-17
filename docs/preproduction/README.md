@@ -77,7 +77,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 
 * Audio
-haut-parleur
+ *haut-parleur
 
 * Lumière
     * LED tube ws 2815?
@@ -89,8 +89,8 @@ haut-parleur
     * 1 ordinateur portable 
     
 * Autre
-    détecteur rotation des pédales
-    microControleur
+    *détecteur rotation des pédales
+    *microControleur
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
@@ -114,7 +114,7 @@ haut-parleur
 
 * Grand studio
     * Projection vidéo dans le cyclo
-    * Capatation vidéo
+    * Captation vidéo
 
 * Petit studio
     * Enregsitrement audio
