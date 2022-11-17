@@ -42,6 +42,7 @@ C'est une expérience multimédia permetant d'interagir avec de la lumière en f
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
+![Moodboard](medias/moodboardfs.png)
 
 > Insérez directement des captures d'écran et liens vers des médias ici.
 
