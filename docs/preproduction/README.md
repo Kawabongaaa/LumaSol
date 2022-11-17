@@ -28,7 +28,7 @@
 
 # Intention ou concept
 ## Cartographie
-
+> Exemples:
 
 ![Cartographie](medias/michael1.png)
 
@@ -41,38 +41,25 @@ Par ce projet, nous souhaitons démontrer l'importance pour l'humain de rester c
 C'est une expérience multimédia permetant d'interagir avec de la lumière en faisant du vélo stationnaire.
 
 ## Tableau d'ambiance (*moodboard*)
+> ![Cartographie](medias/moodboardfs.png)
 
-![Moodboard](medias/moodboardfs.png)
-
-
-//*[Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)*//
+> Insérez directement des captures d'écran et liens vers des médias ici.
 
 ## Scénario, scénarimage ou document audio/visuel
-[Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
 
 # Contenu multimédia à intégrer
+
 ## Inventaire du contenu multimédia
 
-- 15 icônes de navigation (pour les utilisateur-trices)
-- 8 montages d'image
-- 3 paysages sonores
-- 5 vidéos d'animation 2D
-- 3 textes poétiques
-- 7 modules multimédias (ex. captation des données, interprétation des données, contrôle d'éclairage, effets audiovisuels, contrôle vidéo, contrôle de la navigation utilisateur & des différents sous-modules, diffusion et interaction en ligne...).
-- ...
-
-Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
+- 1 Modelisation de style holographique
+- 1 bande sonore féérique
 
 ## Univers artistique des éléments
 Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3}).
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
-> Insérer plans, documents et schémas pertinents dans cette sectio.  
-
-### Plantation 
-
-![exemple de plantation](medias/o3_plantation.svg)
+> Insérer plans, documents et schémas pertinents dans cette section.  
 
 ### Schéma de branchement 
 
@@ -80,7 +67,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ## Matériel de scénographie requis
 
-> Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
+> Liste des matériaux de scénographie 
 
 * Champignon gonflabe
 * Vélo stationnaire
@@ -88,7 +75,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * Ventilateur holographique
 
 ## Équipements requis
-> Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
+> Liste des équipements requis par département 
 
 
 * Vidéo
