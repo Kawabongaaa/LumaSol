@@ -1,7 +1,9 @@
 # Production du projet *LumaSol*
-C'est ici qu'on dépose les fichiers et dossiers de la production. 
+Projet étudiant élaboré durant l'automne 2022 et mise en place ont l'hiver 2023
 
-Dans le dossier **docs**, on retrouve:
-* La préproduction du projet à réaliser en début de projet;
-* Les journaux de création individuels de chaque membre de l'équipe à remplir chaque semaine;
-* Votre page Web d'équipe à mettre à jour chaque semaine...
+## vous trouverez ici la documentation cxomplete pour l'elaboration de notre projet intitulé *LumaSol*
+Crée par :
+- Michaël
+- Pénélope
+- Skayla
+- Éloise
