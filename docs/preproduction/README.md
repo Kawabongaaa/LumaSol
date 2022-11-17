@@ -113,13 +113,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Terrain face à l'école
-   
-    
-
-
-
-## Contraintes techniques et potentiels problèmes de production
-> Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
 
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
