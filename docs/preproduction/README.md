@@ -61,7 +61,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Schémas ou plans techniques
 ### Schéma de branchement 
 
-![exemple de schema](medias/planbranchement.png)
+![exemple de schema](medias/planbranchement1.png)
 
 ## Matériel de scénographie requis
 
