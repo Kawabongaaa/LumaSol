@@ -1,5 +1,5 @@
 # Journal de "Éloïse Gagné"
-![portrait du participant ](../web/medias/participants/Untitled-2.png)
+![portrait du participant ](../web/medias/participants/profile_eloise.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
