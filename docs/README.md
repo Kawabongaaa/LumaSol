@@ -1,7 +1,11 @@
-# Dossier de documentation du projet *LumaSol*
+# Production du projet *LumaSol*
+Projet étudiant élaboré durant l'automne 2022 et mise en place ont l'hiver 2023
 
-Dans ce dossier, on retrouve:
+## vous trouverez ici la documentation complete pour l'élaboration de notre projet intitulé *LumaSol*
+Crée par :
+- Michaël
+- Pénélope
+- Skayla
+- Éloise
 
-* La préproduction du projet à réaliser en début de projet;
-* Les journaux de création individuels de chaque membre de l'équipe à remplir chaque semaine;
-* Votre page Web d'équipe à mettre à jour chaque semaine (**index.html**).
+### Cette documentation sera mise a jours chaque semaine
