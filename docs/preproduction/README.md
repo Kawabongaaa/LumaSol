@@ -87,6 +87,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * Électricité
     * 2 multiprise
+    * ac current sensor
+    * moteur
 
 * Ordinateur
     * 1 ordinateur portable 
