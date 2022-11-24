@@ -38,7 +38,7 @@
 Par ce projet, nous souhaitons démontrer l'importance pour l'humain de rester connecté à la nature à cause de l'urgence climatique que nous vivons actuellement. Cela vise à démontrer que chaque geste que nous faisons impacte notre environnement. 
 
 ## Synopsis
-C'est une expérience multimédia permetant d'interagir avec de la lumière en faisant du vélo stationnaire. 
+C'est une expérience multimédia permetant d'interagir avec de la lumière à partir du vélo stationnaire. 
 
 ## Tableau d'ambiance (*moodboard*)
 ### Référence
