@@ -41,9 +41,12 @@ Par ce projet, nous souhaitons démontrer l'importance pour l'humain de rester c
 C'est une expérience multimédia permetant d'interagir avec de la lumière en faisant du vélo stationnaire.
 
 ## Tableau d'ambiance (*moodboard*)
-> ![Cartographie](medias/moodboardfs.png)
+### Référence
+> ![Cartographie](medias/reference.png)
+### Couleurs
+> ![Cartographie](medias/couleurs.png)
 
-> Insérez directement des captures d'écran et liens vers des médias ici.
+
 
 ## Scénario, scénarimage ou document audio/visuel
 
