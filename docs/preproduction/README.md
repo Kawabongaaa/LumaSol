@@ -69,7 +69,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * Champignon gonflabe
 * Vélo stationnaire
-* Backlight poster
 * Ventilateur holographique
 
 ## Équipements requis
