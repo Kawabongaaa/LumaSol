@@ -70,7 +70,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 > Liste des matériaux de scénographie 
 * panneau plexiglass
-
+* polypropylène
 * Champignon gonflabe
 * Vélo stationnaire
 * Ventilateur holographique
