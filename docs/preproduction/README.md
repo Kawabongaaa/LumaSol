@@ -96,6 +96,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * Autre
     * détecteur de rotation des pédales
     * miniControleur
+    * écran led
     
 
 ## Logiciels requis
