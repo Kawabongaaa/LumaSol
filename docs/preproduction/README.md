@@ -35,10 +35,10 @@
 [![plan 3D](medias/img_scan.png)]([https://skfb.ly/ozZvD](https://sketchfab.com/3d-models/untitled-scan-e400afab043b4200a429fb217640567a)) 
     
 ## Intention de départ
-Par ce projet, nous souhaitons démontrer l'importance pour l'humain de rester connecté à la nature à cause de l'urgence climatique que nous vivons actuellement.
+Par ce projet, nous souhaitons démontrer l'importance pour l'humain de rester connecté à la nature à cause de l'urgence climatique que nous vivons actuellement. Cela vise à démontrer que chaque geste que nous faisons impacte notre environnement. 
 
 ## Synopsis
-C'est une expérience multimédia permetant d'interagir avec de la lumière en faisant du vélo stationnaire.
+C'est une expérience multimédia permetant d'interagir avec de la lumière en faisant du vélo stationnaire. 
 
 ## Tableau d'ambiance (*moodboard*)
 ### Référence
