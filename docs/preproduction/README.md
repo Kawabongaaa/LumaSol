@@ -28,11 +28,11 @@
 
 # Intention ou concept
 ## Cartographie
-> Exemples:
+> Emplacement:
 
-![Cartographie](medias/michael1.png)
+![Cartographie](medias/img_devant.jpg)![Cartographie](medias/img_emplacement.jpg)![Cartographie](medias/img_arbre.jpg)
 
-[![plan 3D](medias/scan.png)](https://skfb.ly/ozZvD) 
+[![plan 3D](medias/img_scan.png)]([https://skfb.ly/ozZvD](https://sketchfab.com/3d-models/untitled-scan-e400afab043b4200a429fb217640567a)) 
     
 ## Intention de départ
 Par ce projet, nous souhaitons démontrer l'importance pour l'humain de rester connecté à la nature à cause de l'urgence climatique que nous vivons actuellement.
