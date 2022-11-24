@@ -63,7 +63,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
 ### Schéma de branchement 
-![exemple de schema](medias/projet_visual.png)
+![exemple de schema](medias/projet_visual_02.png)
 ![exemple de schema](medias/planbranchement1.png)
 
 ## Matériel de scénographie requis
