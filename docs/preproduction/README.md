@@ -35,7 +35,7 @@
 [![plan 3D](medias/img_scan.png)]([https://skfb.ly/ozZvD](https://sketchfab.com/3d-models/untitled-scan-e400afab043b4200a429fb217640567a)) 
     
 ## Intention de départ
-Par ce projet, nous souhaitons démontrer l'importance pour l'humain de rester connecté à la nature à cause de l'urgence climatique que nous vivons actuellement. Cela vise à démontrer que chaque geste que nous faisons impacte notre environnement. 
+Par ce projet, nous souhaitons démontrer l'importance pour l'humain de rester connecté à la nature à cause de l'urgence climatique que nous vivons actuellement. C'est par l'action (l'action de pédaler dans ce cas-ci),que nous avons le pouvoir d'impacter positivement(l'illumination de led) l'environnement qui nous entoure. C'est par l'inaction que nous manquons de voir la beauté naturelle qui nous entoure et nous la nuisons (l'abscence de luminence.)
 
 ## Synopsis
 C'est une expérience multimédia permetant d'interagir avec de la lumière à partir du vélo stationnaire. 
