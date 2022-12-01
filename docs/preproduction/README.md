@@ -35,10 +35,10 @@
 [![plan 3D](medias/img_scan.png)]([https://skfb.ly/ozZvD](https://sketchfab.com/3d-models/untitled-scan-e400afab043b4200a429fb217640567a)) 
     
 ## Intention de départ
-Par ce projet, nous souhaitons démontrer l'importance pour l'humain de rester connecté à la nature à cause de l'urgence climatique que nous vivons actuellement. C'est par l'action (l'action de pédaler dans ce cas-ci),que nous avons le pouvoir d'impacter positivement(l'illumination de led) l'environnement qui nous entoure. C'est par l'inaction que nous manquons de voir la beauté naturelle qui nous entoure et nous la nuisons (l'abscence de luminence.)
+Par ce projet, nous souhaitons démontrer l'importance pour l'humain de rester connecté à la nature à cause de l'urgence climatique que nous vivons actuellement. C'est par l'action,l'action de pédaler dans ce cas-ci,que nous pouvons impacter positivement l'environnement lumineux.
 
 ## Synopsis
-C'est une expérience multimédia permetant d'interagir avec de la lumière à partir du vélo stationnaire. Par l'action de pédaler, cela illuminera les led qui entourent l'arbre et celles qui seront suspendues aux bouts de certaines branches. D'autres leds illumineront le pied des champignons. Toutes ces leds illuminent à un certain rythme et s'arrête automatique dès que l'utilisateur arrête de pédaler. Pendant l'expérience une petite animation rattachée au vélo stationnaire encourage l'utilisateur de continuer à pédaler.
+C'est une expérience multimédia permetant d'interagir avec de la lumière et du son à partir du vélo stationnaire. (ajout mise en contexte pourquoi faire l'expérience comment il est acceuilli) En pédalant, cela illumine les led qui entourent l'arbre et celles qui seront suspendues aux bouts de certaines branches. D'autres leds illumineront le pied des champignons. Toutes ces leds illuminent à un certain rythme et s'arrête automatique dès que l'utilisateur arrête de pédaler. (ajout détail récompense jusqu'à la saturation)Pendant l'expérience une petite animation rattachée au vélo stationnaire encourage l'utilisateur de continuer à pédaler.
 
 ## Tableau d'ambiance (*moodboard*)
 ### Référence
