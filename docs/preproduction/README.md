@@ -105,6 +105,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * Davinci
 * Visual studio code
 * OBS
+* VCV
 
 
 ## Ressources humaines requises
