@@ -38,7 +38,7 @@
 Par ce projet, nous souhaitons démontrer l'importance pour l'humain de rester connecté à la nature à cause de l'urgence climatique que nous vivons actuellement. C'est par l'action,l'action de pédaler dans ce cas-ci,que nous pouvons impacter positivement l'environnement lumineux.
 
 ## Synopsis
-C'est une expérience multimédia permetant d'interagir avec de la lumière et du son à partir du vélo stationnaire. (ajout mise en contexte pourquoi faire l'expérience comment il est acceuilli) En pédalant, cela illumine les led qui entourent l'arbre et celles qui seront suspendues aux bouts de certaines branches. D'autres leds illumineront le pied des champignons. Toutes ces leds illuminent à un certain rythme et s'arrête automatique dès que l'utilisateur arrête de pédaler. (ajout détail récompense jusqu'à la saturation)Pendant l'expérience une petite animation rattachée au vélo stationnaire encourage l'utilisateur de continuer à pédaler.
+C'est une expérience multimédia permetant d'interagir avec de la lumière et du son à partir du vélo stationnaire. (ajout mise en contexte pourquoi faire l'expérience comment il y est acceuilli) En pédalant, cela illumine les led qui entourent l'arbre et celles qui seront suspendues aux bouts de certaines branches. D'autres leds illumineront le pied des champignons. Toutes ces leds illuminent à un certain rythme et s'arrête automatique dès que l'utilisateur arrête de pédaler. (ajout détail récompense jusqu'à la saturation)Pendant l'expérience une petite animation rattachée au vélo stationnaire encourage l'utilisateur de continuer à pédaler.
 
 ## Tableau d'ambiance (*moodboard*)
 ### Référence
@@ -87,16 +87,16 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * Électricité
     * 2 multiprise
-    * ac current sensor
-    * moteur
+    * 1 ac current sensor
+    * 1 moteur
 
 * Ordinateur
     * 1 ordinateur portable 
     
 * Autre
-    * détecteur de rotation des pédales
-    * microControleur
-    * écran led
+    * 1 détecteur de rotation des pédales
+    * 1 microControleur
+    * 1 écran led
     
 
 ## Logiciels requis
