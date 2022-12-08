@@ -72,7 +72,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * polypropylène
 * Champignon gonflabe
 * Vélo stationnaire
-* Ventilateur holographique
 
 ## Équipements requis
 > Liste des équipements requis par département 
