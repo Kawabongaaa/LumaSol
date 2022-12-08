@@ -57,7 +57,7 @@ Il s'agit d'une expérience multimédia où vous pouvez interagir avec la lumiè
 - 1 bande sonore féérique
 
 ## Univers artistique des éléments
-Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3}).
+Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2043528_cmontmorency_qc_ca/EV6CortYhXRHhYdXFVyNncMBFEUyDUUMJah9Lfzzp8_DZQ?e=KbxgmI).
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
