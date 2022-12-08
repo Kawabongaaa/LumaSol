@@ -35,11 +35,10 @@
 [![plan 3D](medias/img_scan.png)]([https://skfb.ly/ozZvD](https://sketchfab.com/3d-models/untitled-scan-e400afab043b4200a429fb217640567a)) 
     
 ## Intention de départ
-Par ce projet, nous souhaitons démontrer l'importance pour l'humain de rester connecté à la nature à cause de l'urgence climatique que nous vivons actuellement. C'est par l'action,l'action de pédaler dans ce cas-ci,que nous pouvons impacter positivement l'environnement lumineux.
+Dans le cadre de ce projet, nous voulons démontrer l'importance pour les humains de demeurer en contact avec la nature en raison de l'urgence climatique que nous vivons actuellement. C'est par l'action, en pédalant dans ce cas, qu'on peut avoir un impact positif sur l'environnement lumineux.
 
 ## Synopsis
-C'est une expérience multimédia permetant d'interagir avec de la lumière et du son à partir du vélo stationnaire. (ajout mise en contexte pourquoi faire l'expérience comment il y est acceuilli) En pédalant, cela illumine les led qui entourent l'arbre et celles qui seront suspendues aux bouts de certaines branches. D'autres leds illumineront le pied des champignons. Toutes ces leds illuminent à un certain rythme et s'arrête automatique dès que l'utilisateur arrête de pédaler. (ajout détail récompense jusqu'à la saturation)Pendant l'expérience une petite animation rattachée au vélo stationnaire encourage l'utilisateur de continuer à pédaler.
-
+Il s'agit d'une expérience multimédia où vous pouvez interagir avec la lumière et le son de la bicyclette fixe. (Ajout mis en contexte pourquoi faire l'expérience comment il y est accueilli) en pédalant, cela illumine les leds qui entourent l'arbre et celles qui seront suspendues aux bouts de certaines branches. D'autres leds allumeront le pied des champignons. Toutes ces DEL s'éclairent à un certain rythme et s'arrêtent automatiquement dès que l'utilisateur arrête de pédaler. (ajouter des détails de récompense jusqu'à saturation) pendant l'expérience une petite animation attachée à la moto stationnaire encourage l'utilisateur à continuer à pédaler.
 ## Tableau d'ambiance (*moodboard*)
 ### Référence
 > ![Cartographie](medias/reference.png)
