@@ -7,3 +7,4 @@ Crée par :
 - Pénélope
 - Skayla
 - Éloise
+### [Document contrôle qualité](https://cmontmorency365-my.sharepoint.com/:w:/g/personal/1750998_cmontmorency_qc_ca/Ef8Lct-499VKsOl8u4_7FswBBOHQk-yDQWOIMBG2w9FjMQ?e=UYjqwy)
