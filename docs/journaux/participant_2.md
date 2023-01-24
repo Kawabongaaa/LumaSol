@@ -17,9 +17,8 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Vivamus lacinia tincidunt dui, non auctor justo. 
-- Fusce euismod ornare dolor. 
-- Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
+- Finir préproduction
+- Rajouter un inventaire des élément multimédias à créer
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
