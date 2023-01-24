@@ -164,7 +164,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3A
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
-- ** Mardi, Samedi ,Dimanche(11h-12h)** : Rencontre de suivi de projet.
+- **Mardi, Samedi ,Dimanche(11h-12h)** : Rencontre de suivi de projet.
 
 Autre: 
 - **Lundi (vers 14h30), Vendredi(matin)** : Rencontre de suivi de projet.
