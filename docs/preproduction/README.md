@@ -157,7 +157,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-(https://github.com/orgs/Kawabongaaa/projects/2/views/1)](https://github.com/orgs/Kawabongaaa/projects/2/views/1)
+https://github.com/orgs/Kawabongaaa/projects/2/views/1)
 
 **Tâches pas encore attribuées**  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
