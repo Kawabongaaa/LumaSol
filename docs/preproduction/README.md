@@ -156,7 +156,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 - Programmation du module Max de contrôle de la navigation utilisateur & des différents sous-modules.
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
+https://github.com/Kawabongaaa/LumaSol/issues 
 https://github.com/orgs/Kawabongaaa/projects/2/views/1)
 
 **Tâches pas encore attribuées**  
