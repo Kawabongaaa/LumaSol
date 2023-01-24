@@ -149,11 +149,17 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
 
-**Étudiant A**
-- Création des images;
-- Création des icônes de navigation;
-- Programmation du module Max d'éclairage;
-- Programmation du module Max de contrôle de la navigation utilisateur & des différents sous-modules.
+**Michaël**
+- Coordination générale du projet
+
+**Skayla**
+- Coordination artistique
+
+**Pénélope**
+- Coordination artistique
+
+**Éloïse**
+- Coordination technique
 
 Liste des tâches dans Git Hub:  
 - https://github.com/Kawabongaaa/LumaSol/issues 
