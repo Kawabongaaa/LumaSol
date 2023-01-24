@@ -15,7 +15,7 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
--Finalisation journal
+- Finalisation journal
 - Préproduciton
 
 ### Image d'une réalisation dont tu es la ou le plus fier
