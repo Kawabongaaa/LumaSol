@@ -151,7 +151,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 
 **Michaël**
 - Coordination générale du projet
-- [Issues GitHub assigné](https://github.com/Kawabongaaa/LumaSol/issues?q=is%3Aopen+is%3Aissue)
+- [Issues GitHub assigné](https://github.com/Kawabongaaa/LumaSol/issues/assigned/MichaelSimardVaudry)
 
 **Skayla**
 - Coordination artistique
