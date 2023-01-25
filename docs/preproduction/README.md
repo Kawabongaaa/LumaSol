@@ -110,10 +110,10 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 
 ## Ressources humaines requises
-> Formaté en liste ou en lien vers un tableur Excel.
 
 * TTP, location de matériel
 * interacteur X
+* Instalateur LED spécialiser dans les arbres
 * Etc.
 
 ## Ressources spatiales requises (rangement et locaux)
@@ -131,7 +131,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
-https://github.com/tim-montmorency/66B-modele_de_projet/milestones
+https://github.com/Kawabongaaa/LumaSol/milestones
 
 *Dates importantes :*
 - Première itération : lundi x novembre
@@ -140,7 +140,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?add_cards_query=is%3Aopen
+https://github.com/orgs/Kawabongaaa/projects/2
 
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues
@@ -151,22 +151,25 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 
 **Michaël**
 - Coordination générale du projet
+- [Issues GitHub assigné](https://github.com/Kawabongaaa/LumaSol/issues?q=is%3Aopen+is%3Aissue)
 
 **Skayla**
 - Coordination artistique
+- [Issues GitHub assigné](https://github.com/Kawabongaaa/LumaSol/issues/assigned/skayla-nelie)
 
 **Pénélope**
 - Coordination artistique
+- [Issues GitHub assigné](https://github.com/Kawabongaaa/LumaSol/issues/assigned/Penelope-M)
 
 **Éloïse**
 - Coordination technique
+- [Issues GitHub assigné](https://github.com/Kawabongaaa/LumaSol/issues/assigned/Paracoco)
 
 Liste des tâches dans Git Hub:  
 - https://github.com/Kawabongaaa/LumaSol/issues 
-- https://github.com/orgs/Kawabongaaa/projects/2/views/1
 
 **Tâches pas encore attribuées**  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
+- https://github.com/Kawabongaaa/LumaSol/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
