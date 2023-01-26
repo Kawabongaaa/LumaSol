@@ -21,9 +21,9 @@
 - Nouvel emplacement pour le projet
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
+![Nouvel emplacement trouvé pour notre projet](medias/emplacement_01.jpg)
 ou
-![ici est une description de l'image](medias/console.jpg)
+![ici est une description de l'image](medias/emplacement_02.jpg)
 ou
 ![ici est une description de l'image](medias/photoshop.jpg)
 
