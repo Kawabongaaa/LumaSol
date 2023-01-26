@@ -17,6 +17,8 @@
 ### Résumé des réalisations effectuées
 - Finalisation journal
 - Préproduciton
+- Modifications / ajustements du projet
+- Nouvel emplacement pour le projet
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/motionCapture.jpg)
