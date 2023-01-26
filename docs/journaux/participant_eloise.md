@@ -22,10 +22,9 @@
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Nouvel emplacement trouvé pour notre projet](medias/emplacement_01.jpg)
-ou
-![ici est une description de l'image](medias/emplacement_02.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
+
+![Photo2](medias/emplacement_02.jpg)
+
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
