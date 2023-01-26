@@ -16,7 +16,7 @@
 
 ### Résumé des réalisations effectuées
 - Finalisation journal
-- Préproduciton
+- Préproduction
 - Modifications / ajustements du projet
 - Nouvel emplacement pour le projet
 
