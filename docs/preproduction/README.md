@@ -11,7 +11,7 @@
 2. [Contenu multimédia à intégrer](#Contenu-multimédia-à-intégrer)
     - [Inventaire du contenu multimédia](#Inventaire-du-contenu-multimédia)
     - [Univers artistique des éléments](#Univers-artistique-des-éléments-centraux)
-3. [Planification technique d'un prototype (devis technique)](#Planification-technique-(devis-technique))
+3. [Planification technique d'un prototype (devis technique)](#planification-technique-dun-prototype-devis-technique)
     - [Schémas ou plans techniques](#Schémas-ou-plans-techniques)
     - [Matériaux requis](#Matériaux-de-scénographie-requis)
     - [Équipements requis](#Équipements-requis)
@@ -23,7 +23,7 @@
     - [Budget prévisionnel](#Budget-prévisionnel)
     - [Échéancier global](#Échéancier-global)
     - [Liste des tâches à réaliser](#Liste-des-tâches-à-réaliser)
-    - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-l'équipe))
+    - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-l'équipe)
     - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe)
 
 # Intention ou concept
