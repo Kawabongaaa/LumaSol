@@ -53,8 +53,12 @@ Il s'agit d'une expérience multimédia où vous pouvez interagir avec la lumiè
 
 ## Inventaire du contenu multimédia
 
-- 1 bande sonore féérique
-- Bandes DEL adressables
+| **Nbre** | **Nom**                       | **Description**                                                                                             | **À réaliser / À trouver** | **Format** | **Exemples de réalisation**                                                        |
+|----------|-------------------------------|-------------------------------------------------------------------------------------------------------------|----------------------------|------------|------------------------------------------------------------------------------------|
+| **1**    | Bande sonore, style détente   | Bande sonore qui jouera lors ce que personne n’est sur le vélo.                                             | À trouver                  | .wav ?     | https://www.youtube.com/watch?v=mX9zwLQVTr0&t=25391s&ab_channel=Sleep%26Relaxation |
+| **2**    | Bande sonore, style féérique  | Bande sonore qui jouera lors ce qu’une personne commencera à utiliser le vélo                               | À trouver                  | .wav ?     | https://www.youtube.com/watch?v=vyg5jJrZ42s&ab_channel=DaydreamingofPersephone     |
+| **3**    | Bande sonore, style énergique | Bande sonore qui jouera lors ce qu’une personne commencera à une certaine intensité de rotation des pédales | À trouver                  | .wav ?     | https://www.youtube.com/watch?v=_S7WEVLbQ-Y&ab_channel=FicLord                     |
+
 
 ## Univers artistique des éléments
 Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2043528_cmontmorency_qc_ca/EV6CortYhXRHhYdXFVyNncMB1l6eHzHouDiJr-Jv7m2BKA?e=6enGIz).
