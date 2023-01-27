@@ -78,16 +78,16 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
     * LED tube ws 2815?
 
 * Électricité
-    * 2 multiprise
+    * 2 multiprises
     * 2 ac current sensor
-    * 2 moteur
+    * 2 moteurs
 
 * Ordinateur
-    * 2 Raspberry pie
+    * 2 Raspberry Pi
     
 * Autre
-    * 2 détecteur de rotation des pédales
-    * 2 microControleur
+    * 2 détecteurs de rotation des pédales
+    * 2 microControleurs
     * 2 écrans led
     * Haut-parleurs
     
