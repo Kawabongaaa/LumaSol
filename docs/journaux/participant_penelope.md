@@ -17,17 +17,12 @@
 ### Résumé des réalisations effectuées
 - Discussion en équipe des changements pour le projet (Budget , équipement , endroit )
 - Discussion pour la mise à jour de la grille de budget en équipe et la liste des équiements 
-- La localisation du projet est proche de la porte 3
-- Suppression logiciel : Davinci resolve, blender
-- Ajout logiciel: Madmapper
+- Mise à jour cartographie (La localisation du projet est proche de la porte 3 )
 - Mise à jour de l'intention et synopsis
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
-ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![ici est une description de l'image](medias/job1.png)
+
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
