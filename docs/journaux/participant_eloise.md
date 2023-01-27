@@ -33,26 +33,28 @@
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Le journal est fait pour la semaine 1, par contre notre préproduction doit encore être un peu repensé après notre rencontre avec Daryl et la rencontre du commité technique.
+Le journal est fait pour la semaine 1
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Faire une rencontre avec l'équipe pour raffiner les modifications du projet et le mettre clair.
+
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
+Notre préproduction doit encore être un peu repensé après notre rencontre avec Daryl et la rencontre du commité technique.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Faire une rencontre avec l'équipe pour raffiner les modifications du projet et le mettre au clair.
 
 ### Défis pour la prochaine semaine
 - Avoir compléter la liste des matériaux
 - Préproduction complètement finie
-
+- Peut-être commencer des parties du projet?
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
