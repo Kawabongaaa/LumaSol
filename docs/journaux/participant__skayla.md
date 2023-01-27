@@ -23,19 +23,20 @@
 - Planifier les moments de rencontres
 - 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Recherche de vélo stationnaire] 
+![Recherche de vélo stationnaire] <img width="780" alt="Capture d’écran, le 2023-01-27 à 01 39 48" src="https://user-images.githubusercontent.com/90851580/215024922-28c1c4fe-6980-4f7b-83a1-f214314b5351.png">
+
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
-- [ ] Assez
-- [x] Peu
+- [x] Assez
+- [] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
+Il n'y avait pas beaucoup de choses compliqué à faire, malgré le fait que nous devions modifié beaucoup de détail par rapport à nôtre projet, nous avons réussi à s'adapter à aux changement.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+Nous avons trouver d'autre solution à nos problèmes, et nous avons ajuster la liste des matériaux nécessaires.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -45,13 +46,13 @@ Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis con
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
+Certains choses (moins demandante) n'ont pas été effectué.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
+Nous planifirons des rencontres pour pouvoir en parler.
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+Planifier plus de rencontres, filmer la préprodution de notre projets afin de le présenter en classe.
 
 ---
 ## Semaine 2
