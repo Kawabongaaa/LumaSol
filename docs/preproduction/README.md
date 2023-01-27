@@ -62,7 +62,8 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
 ### Schéma de branchement 
-![exemple de schema](medias/projet_visual.png)
+![nouveau_shema](https://user-images.githubusercontent.com/78884924/215009624-894c957c-4c5c-42f1-9880-951b1e23fd11.png)
+
 ![diagramme_branchement drawio](https://user-images.githubusercontent.com/78884924/215005195-476bf858-bcf8-4e6a-85bb-78464970dd22.png)
 
 
