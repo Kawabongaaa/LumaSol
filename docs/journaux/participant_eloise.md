@@ -41,7 +41,7 @@ Faire une rencontre avec l'équipe pour raffiner les modifications du projet et 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [  Assez
+- [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
