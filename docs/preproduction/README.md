@@ -114,7 +114,7 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
-* Terrain face à la porte 3 près des vélos
+* Terrain face à la porte 1 près des vélos
 * Arbres et buisson
 
 
