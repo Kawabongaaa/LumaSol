@@ -78,6 +78,7 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
 
 * Lumière
     * LED tube ws 2815?
+    * dmx dot 5w
 
 * Électricité
     * 2 multiprises
@@ -92,6 +93,7 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
     * 2 microControleurs
     * 2 écrans led
     * Haut-parleurs
+    
     
 
 ## Logiciels requis
@@ -108,12 +110,12 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
 * TTP, location de matériel
 * interacteur X
 * Instalateur LED spécialiser dans les arbres
-* Etc.
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Terrain face à la porte 3 près des vélos
+* Arbres et buisson
 
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
@@ -132,7 +134,16 @@ https://github.com/Kawabongaaa/LumaSol/milestones
 *Dates importantes :*
 - Première itération : lundi x novembre
 - Prototype finale : lundi x décembre
-- Présentation des projets devant public : jeudi 25 mars (soir)
+- Visite à l'UQAM - Pavillon Emery (présentation projet): 6 février de 14h à 16h;
+- Utilisation du petit studio pour autre cours (Françoise Lavoie Pilote): 14 février;
+- Visite des étudiant.es de 1re année: jeudi 23 février (9h50 et 13h30) et vendredi 24 février (9h50);
+- Générale technique en studio: vendredi 17 mars au matin;
+- Début de la diffusion: lundi 20 mars, 13h;
+- Diffusion des projets en mode autonome: lundi 20 au jeudi 23 mars;
+- Présentation aux étudiant.es de 1re année: vendredi 17 mars (9h50) et jeudi 23 mars (9h50 et 13h30);
+- Présentation aux étudiant.es de l'UQAM: date à venir;
+- Vernissage devant public : jeudi 23 mars 18h30;
+- Démontage: vendredi 24 mars.
 
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
