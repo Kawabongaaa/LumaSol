@@ -21,15 +21,14 @@
 - Ajouter les dates importantes 
 - Mettre à jour le budget et prévoir des back-up
 - Planifier les moments de rencontres
-- 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Recherche de vélo stationnaire] <img width="780" alt="Capture d’écran, le 2023-01-27 à 01 39 48" src="https://user-images.githubusercontent.com/90851580/215024922-28c1c4fe-6980-4f7b-83a1-f214314b5351.png">
+!Recherche de vélo stationnaire <img width="780" alt="Capture d’écran, le 2023-01-27 à 01 39 48" src="https://user-images.githubusercontent.com/90851580/215024922-28c1c4fe-6980-4f7b-83a1-f214314b5351.png">
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
 - [x] Assez
-- [] Peu
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
