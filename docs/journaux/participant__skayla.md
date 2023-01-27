@@ -17,8 +17,10 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Finir préproduction
-- Rajouter un inventaire des élément multimédias à créer
+
+- Mettre à jour l'inventaire du contenu multimédia à intégrer
+- Mettre à jour le budget
+- Mettre à jour le matériel
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
