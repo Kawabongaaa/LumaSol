@@ -18,17 +18,12 @@
 
 ### Résumé des réalisations effectuées
 
-- Mettre à jour l'inventaire du contenu multimédia à intégrer
-- Mettre à jour le budget
-- Mettre à jour le matériel
-
-
+- Ajouter les dates importantes 
+- Mettre à jour le budget et prévoir des back-up
+- Planifier les moments de rencontres
+- 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
-ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![Recherche de vélo stationnaire] 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
