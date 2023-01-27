@@ -16,7 +16,7 @@
 
 ### Résumé des réalisations effectuées
 - Discussion en équipe des changements pour le projet (Budget , équipement , endroit )
-- Discussion pour la mise à jour de la grille de budget en équipe et la liste des équiements 
+- Discussion en équipe pour la mise à jour de la grille de budget en équipe et la liste des équiements 
 - Mise à jour cartographie (La localisation du projet est proche de la porte 3 )
 - Mise à jour de l'intention et synopsis
 
@@ -50,7 +50,10 @@
 
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+-Finir la vidéo présentation
+-Finir la liste du budget avec lien pour l'équipement si ce n'est pas déjà finis
+-Prévoir une trame sonore
+-Réunion d'équipe 29 janvier 2023
 
 ---
 ## Semaine 2
