@@ -37,7 +37,12 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 
 ## Semaine 1
 
+Nous avons ajusté notre moodboard
+![image](https://user-images.githubusercontent.com/70410591/215122374-2ad2ce8c-4bd0-470e-8b87-c901d67801ba.png)
 
+Nous avons mis à jour la préproduction, la liste de matériaux ainsi que le budget (encore à travailler), puis nous avons précisé notre intention et synopsis.
+
+Après la rencontre du commité technique, nous avons trouver un nouvel emplacement pour notre projet.
 
 
 
