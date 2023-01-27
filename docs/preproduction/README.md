@@ -118,10 +118,11 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-![Budget prévisionnel]<img width="786" alt="Capture d’écran, le 2023-01-27 à 01 17 50" src="https://user-images.githubusercontent.com/90851580/215022072-c90490df-a154-49b3-8ac8-6be01158cd79.png">
+![Budget prévisionnel]<img width="750" alt="Capture d’écran, le 2023-01-27 à 01 23 44" src="https://user-images.githubusercontent.com/90851580/215022772-ac61cdb3-3117-4550-83e0-e0c23650da5f.png">
 
 
-[Lien vers document](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1750998_cmontmorency_qc_ca/EXqkXm99rPFGvh0DrXiERdsBS-l8X0qSRT5-CaJ0g_T6aQ?e=TR7tIV)
+
+[Lien vers document](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1750998_cmontmorency_qc_ca/EcYKDYhSYZhFsjaevGSA4jEB_0RhjajuJutQyKdFXIhRjg?e=d5FwSu)
 
 
 ## Échéancier global
