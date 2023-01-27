@@ -30,9 +30,8 @@
 ## Cartographie
 > Emplacement:
 
-![Cartographie](medias/img_devant.jpg)![Cartographie](medias/img_emplacement.jpg)![Cartographie](medias/img_arbre.jpg)
+![Cartographie](medias/emplacement_01.jpg)![Cartographie](medias/emplacement_02.jpg)![Cartographie](medias/emplacement_03.jpg)![Cartographie](medias/emplacement_04.jpg)
 
-[![plan 3D](medias/img_scan.png)]([https://skfb.ly/ozZvD](https://sketchfab.com/3d-models/untitled-scan-e400afab043b4200a429fb217640567a)) 
     
 ## Intention de départ
 Dans le cadre de ce projet, nous voulons démontrer l'importance pour les humains de demeurer en contact avec la nature en raison de l'urgence climatique que nous vivons actuellement. C'est par l'action, en pédalant dans ce cas, qu'on peut avoir un impact positif sur l'environnement lumineux.
