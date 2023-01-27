@@ -54,6 +54,7 @@ Il s'agit d'une expérience multimédia où vous pouvez interagir avec la lumiè
 ## Inventaire du contenu multimédia
 
 - 1 bande sonore féérique
+- Bandes DEL adressables
 
 ## Univers artistique des éléments
 Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2043528_cmontmorency_qc_ca/EV6CortYhXRHhYdXFVyNncMB1l6eHzHouDiJr-Jv7m2BKA?e=6enGIz).
