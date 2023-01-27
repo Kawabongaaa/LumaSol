@@ -91,7 +91,6 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
 * Autre
     * 2 détecteurs de rotation des pédales
     * 2 microControleurs
-    * 2 écrans led
     * Haut-parleurs
     
     
