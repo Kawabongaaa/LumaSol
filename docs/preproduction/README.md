@@ -28,7 +28,7 @@
 
 # Intention ou concept
 ## Cartographie
-> Emplacement: Proche de l'entrée 3 de l'école
+> Emplacement: Proche de l'entrée 3 du cegep Montmorency
 
 ![Cartographie](medias/emplacement_01.jpg)![Cartographie](medias/emplacement_02.jpg)![Cartographie](medias/emplacement_03.jpg)![Cartographie](medias/emplacement_04.jpg)
 
