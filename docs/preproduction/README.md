@@ -68,33 +68,28 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
 ## Matériel de scénographie requis
 
 > Liste des matériaux de scénographie 
-* panneau plexiglass
-* polypropylène
-* Champignon gonflabe
+
 * Vélo stationnaire
 
 ## Équipements requis
 > Liste des équipements requis par département 
-
-
-
-
 
 * Lumière
     * LED tube ws 2815?
 
 * Électricité
     * 2 multiprise
-    * 1 ac current sensor
-    * 1 moteur
+    * 2 ac current sensor
+    * 2 moteur
 
 * Ordinateur
-    * 1 ordinateur portable 
+    * 2 Raspberry pie
     
 * Autre
-    * 1 détecteur de rotation des pédales
-    * 1 microControleur
-    * 1 écran led
+    * 2 détecteur de rotation des pédales
+    * 2 microControleur
+    * 2 écrans led
+    * Haut-parleurs
     
 
 ## Logiciels requis
@@ -118,7 +113,7 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
-* Terrain face à l'école
+* Terrain face à la porte 1 près des vélos
 
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
