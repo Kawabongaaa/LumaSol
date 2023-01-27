@@ -19,6 +19,7 @@
 - Discussion en équipe pour la mise à jour de la grille de budget en équipe et la liste des équiements 
 - Mise à jour cartographie (La localisation du projet est proche de la porte 3 )
 - Mise à jour de l'intention et synopsis
+- Mise à jour de l'inventaire du contenu multimédia
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/job1.jpg)
