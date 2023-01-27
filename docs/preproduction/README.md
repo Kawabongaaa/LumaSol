@@ -53,7 +53,6 @@ Il s'agit d'une expérience multimédia où vous pouvez interagir avec la lumiè
 
 ## Inventaire du contenu multimédia
 
-- 1 Modelisation de style holographique
 - 1 bande sonore féérique
 
 ## Univers artistique des éléments
