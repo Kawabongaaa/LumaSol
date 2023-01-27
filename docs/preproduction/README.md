@@ -28,7 +28,7 @@
 
 # Intention ou concept
 ## Cartographie
-> Emplacement:
+> Emplacement: Proche de l'entrée 3 de l'école
 
 ![Cartographie](medias/emplacement_01.jpg)![Cartographie](medias/emplacement_02.jpg)![Cartographie](medias/emplacement_03.jpg)![Cartographie](medias/emplacement_04.jpg)
 
