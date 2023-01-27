@@ -43,6 +43,8 @@ Nous avons ajusté notre moodboard
 Nous avons mis à jour la préproduction, la liste de matériaux ainsi que le budget (encore à travailler), puis nous avons précisé notre intention et synopsis. Les shémas ont aussi été réajustés en conséquence des modifications.
 ![image](https://user-images.githubusercontent.com/70410591/215124366-465c1c1c-774e-4f2a-8987-0fba2df92d32.png)
 ![image](https://user-images.githubusercontent.com/70410591/215124730-a91e857d-6c04-4f9b-8ec9-54cd4a445fcb.png)
+![image](https://user-images.githubusercontent.com/70410591/215125260-d78220d7-4583-489d-9c77-34b1653faafd.png)
+
 
 
 Après la rencontre du commité technique, nous avons trouver un nouvel emplacement pour notre projet.
