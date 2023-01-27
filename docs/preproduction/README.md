@@ -34,10 +34,10 @@
 
     
 ## Intention de départ
-Dans le cadre de ce projet, nous voulons démontrer l'importance pour les humains de demeurer en contact avec la nature en raison de l'urgence climatique que nous vivons actuellement. C'est par l'action, en pédalant dans ce cas, qu'on peut avoir un impact positif sur l'environnement lumineux.
+Dans le cadre de ce projet, nous voulons démontrer l'importance pour les humains de demeurer en contact avec la nature en raison de l'urgence climatique que nous vivons actuellement. C'est par l'action, en pédalant dans ce cas, qu'on peut avoir un impact positif sur l'environnement lumineux. Le projet LumaSol nous donne la possibilité de rester en contact avec la nature.
 
 ## Synopsis
-Il s'agit d'une expérience multimédia où vous pouvez interagir avec la lumière et le son de la bicyclette fixe. Quand quelqu'un monte sur le vélo et pédale, cela illumine les leds qui entourent l'arbre et celles qui seront suspendues aux bouts de certaines branches. D'autres leds allumeront le pied des champignons. Toutes ces DEL s'éclairent à un certain rythme et s'arrêtent automatiquement dès que l'utilisateur arrête de pédaler. pour insister l'utilisateur a continué de pedaler, les leds augments de plus en plus. Il y aurait également une petite ampoule sur le velo qui montrerait toute la force nécessaire pour allumer une simple ampoule. pendant l'expérience une petite animation attachée à la moto stationnaire encourage l'utilisateur à continuer à pédaler.
+Il s'agit d'une expérience multimédia où vous pouvez interagir avec la lumière et un rythme musicale à partir d'un vélo stationnaire. Quand quelqu'un monte sur le vélo et pédale, cela illumine les leds qui entourent l'arbre et celles qui seront suspendues aux bouts de certaines branches sous la forme de feuilles. D'autres DEl en forment de fleurs seront sur les plantes environnantes . Toutes ces DEL adressables s'éclairent selon le rythme de l'utilisateur et s'arrêtent automatiquement dès qu'il arrête de pédalé et/ou quand l'expérience est terminée. Les couleurs sont prédéfinis en avancent.
 
 ## Tableau d'ambiance (*moodboard*)
 ### Référence
