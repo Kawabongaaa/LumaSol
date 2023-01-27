@@ -55,6 +55,7 @@ Faire une rencontre avec l'équipe pour raffiner les modifications du projet et 
 - Avoir compléter la liste des matériaux
 - Préproduction complètement finie
 - Peut-être commencer des parties du projet?
+- Faire la vidéo de 4 mins
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
