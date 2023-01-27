@@ -118,7 +118,8 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-![Budget prévisionnel](medias/budget.png)
+![Budget prévisionnel]<img width="786" alt="Capture d’écran, le 2023-01-27 à 01 17 50" src="https://user-images.githubusercontent.com/90851580/215022072-c90490df-a154-49b3-8ac8-6be01158cd79.png">
+
 
 [Lien vers document](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1750998_cmontmorency_qc_ca/EXqkXm99rPFGvh0DrXiERdsBS-l8X0qSRT5-CaJ0g_T6aQ?e=TR7tIV)
 
