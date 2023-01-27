@@ -96,11 +96,9 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
 * Arduino
-* Blender
-* Davinci
 * Visual studio code
-* OBS
 * VCV
+* Madmapper
 
 
 ## Ressources humaines requises
