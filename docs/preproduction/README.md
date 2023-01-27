@@ -41,11 +41,7 @@ Il s'agit d'une expérience multimédia où vous pouvez interagir avec la lumiè
 
 ## Tableau d'ambiance (*moodboard*)
 ### Référence
-> ![Cartographie](medias/reference.png)
-### Couleurs
-> ![Cartographie](medias/couleurs.png)
-
-
+> ![moodboard_lumasol](https://user-images.githubusercontent.com/78884924/215009415-4b9d5f8f-adb8-4cda-8767-23aa3979bbf9.png)
 
 ## Scénario, scénarimage ou document audio/visuel
 
@@ -67,7 +63,8 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
 ## Schémas ou plans techniques
 ### Schéma de branchement 
 ![exemple de schema](medias/projet_visual.png)
-![exemple de schema](medias/planbranchement1.png)
+![diagramme_branchement drawio](https://user-images.githubusercontent.com/78884924/215005195-476bf858-bcf8-4e6a-85bb-78464970dd22.png)
+
 
 ## Matériel de scénographie requis
 
