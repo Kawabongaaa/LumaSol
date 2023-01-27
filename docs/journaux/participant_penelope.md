@@ -50,10 +50,10 @@
 
 
 ### Défis pour la prochaine semaine
--Finir la vidéo présentation
--Finir la liste du budget avec lien pour l'équipement si ce n'est pas déjà finis
--Prévoir une trame sonore
--Réunion d'équipe 29 janvier 2023
+- Finir la vidéo présentation
+- Finir la liste du budget avec lien pour l'équipement si ce n'est pas déjà finis
+- Prévoir une trame sonore
+- Réunion d'équipe 29 janvier 2023
 
 ---
 ## Semaine 2
