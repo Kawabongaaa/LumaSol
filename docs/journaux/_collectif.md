@@ -43,8 +43,8 @@ Nous avons ajusté notre moodboard
 Nous avons mis à jour la préproduction, la liste de matériaux ainsi que le budget (encore à travailler), puis nous avons précisé notre intention et synopsis.
 
 Après la rencontre du commité technique, nous avons trouver un nouvel emplacement pour notre projet.
-![image](emplacement_01.jpg)
-![image](emplacement_02.jpg)
+![image](medias/emplacement_01.jpg)
+![image](medias/emplacement_02.jpg)
 
 
 
