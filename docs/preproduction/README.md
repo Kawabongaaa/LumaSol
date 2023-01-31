@@ -71,21 +71,28 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
 > Liste des équipements requis par département 
 
 * Lumière
-    * LED tube ws 2815?
-    * dmx dot 5w
+    * Dream Line adressable
+    * 50 DMX dot 5w ?
+    * Boules lumineuses 200mm
+   
 
 * Électricité
     * 2 multiprises
     * 2 ac current sensor
     * 2 moteurs
+    * 2 microControleurs
 
 * Ordinateur
-    * 2 Raspberry Pi
+    * 2 Raspberry Pi ou 1 mac mini
     
 * Autre
     * 2 détecteurs de rotation des pédales
     * 2 microControleurs
-    * Haut-parleurs
+    * 2Haut-parleurs
+    * 2 Caisson étanche
+    * Magrétomètre
+    * 2 Chaufrette/ Ampoule
+    
     
     
 
