@@ -113,8 +113,13 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
+> Emplacement: Proche de l'entrée 3 du cegep Montmorency
+
+![Cartographie](medias/emplacement_01.jpg)![Cartographie](medias/emplacement_02.jpg)![Cartographie](medias/emplacement_03.jpg)![Cartographie](medias/emplacement_04.jpg)
+
 * Terrain face à la porte 1 près des vélos
 * Arbres et buisson
+
 
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
