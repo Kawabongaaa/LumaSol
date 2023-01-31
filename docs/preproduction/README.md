@@ -105,7 +105,7 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
 * Instalateur LED spécialiser dans les arbres
 
 ## Cartographie et Ressources spatiales requises (rangement et locaux)
-> Emplacement: Proche de l'entrée 3 du cegep Montmorency
+> Emplacement: Proche de l'entrée 1 du cegep Montmorency
 
 ![Cartographie](medias/emplacement_01.jpg)![Cartographie](medias/emplacement_02.jpg)![Cartographie](medias/emplacement_03.jpg)![Cartographie](medias/emplacement_04.jpg)
 
