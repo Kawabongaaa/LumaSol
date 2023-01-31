@@ -47,8 +47,7 @@ Il s'agit d'une expérience multimédia où vous pouvez interagir avec la lumiè
 | **Nbre** | **Nom**                       | **Description**                                                                                             | **À réaliser / À trouver** | **Format** | **Exemples de réalisation**                                                        |
 |----------|-------------------------------|-------------------------------------------------------------------------------------------------------------|----------------------------|------------|------------------------------------------------------------------------------------|
 | **1**    | Bande sonore, style détente   | Bande sonore qui jouera lors ce que personne n’est sur le vélo.                                             | À trouver                  | .wav ?     | https://www.youtube.com/watch?v=mX9zwLQVTr0&t=25391s&ab_channel=Sleep%26Relaxation |
-| **2**    | Bande sonore, style féérique  | Bande sonore qui jouera lors ce qu’une personne commencera à utiliser le vélo                               | À trouver                  | .wav ?     | https://www.youtube.com/watch?v=vyg5jJrZ42s&ab_channel=DaydreamingofPersephone     |
-| **3**    | Bande sonore, style énergique | Bande sonore qui jouera lors ce qu’une personne commencera à une certaine intensité de rotation des pédales | À trouver                  | .wav ?     | https://www.youtube.com/watch?v=_S7WEVLbQ-Y&ab_channel=FicLord                     |
+| **2**    | Bande sonore, style féérique  | Bande sonore qui jouera lors ce qu’une personne commencera à pédaler sur le vélo avec une certaine intensité                               | À trouver                  | .wav ?     | https://www.youtube.com/watch?v=vyg5jJrZ42s&ab_channel=DaydreamingofPersephone     |
 
 
 ## Univers artistique des éléments
