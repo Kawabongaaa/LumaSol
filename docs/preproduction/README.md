@@ -88,7 +88,7 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
 * Autre
     * 2 détecteurs de rotation des pédales
     * 2 microControleurs
-    * 2Haut-parleurs
+    * 2 Haut-parleurs
     * 2 Caisson étanche
     * Magrétomètre
     * 2 Chaufrette/ Ampoule
