@@ -27,12 +27,7 @@
     - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe)
 
 # Intention ou concept
-## Cartographie
-> Emplacement: Proche de l'entrée 3 du cegep Montmorency
 
-![Cartographie](medias/emplacement_01.jpg)![Cartographie](medias/emplacement_02.jpg)![Cartographie](medias/emplacement_03.jpg)![Cartographie](medias/emplacement_04.jpg)
-
-    
 ## Intention de départ
 Dans le cadre de ce projet, nous voulons démontrer l'importance pour les humains de demeurer en contact avec la nature en raison de l'urgence climatique que nous vivons actuellement. C'est par l'action, en pédalant dans ce cas, qu'on peut avoir un impact positif sur l'environnement lumineux. Le projet LumaSol donne la possibilité de rester en contact avec la nature.
 
@@ -110,7 +105,7 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
 * interacteur X
 * Instalateur LED spécialiser dans les arbres
 
-## Ressources spatiales requises (rangement et locaux)
+## Cartographie et Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 > Emplacement: Proche de l'entrée 3 du cegep Montmorency
