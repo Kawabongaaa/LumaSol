@@ -59,7 +59,10 @@
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+- Faire le scenarimage
+- Mettre à jour le synopsis
+- Choisir la couleur pour les lumières
+- Répartition des tâches en équipes
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
