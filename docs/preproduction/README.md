@@ -56,7 +56,6 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
 ### Schéma de branchement 
-![nouveau_shema](https://user-images.githubusercontent.com/78884924/215009624-894c957c-4c5c-42f1-9880-951b1e23fd11.png)
 
 ![diagramme_branchement drawio](https://user-images.githubusercontent.com/78884924/215005195-476bf858-bcf8-4e6a-85bb-78464970dd22.png)
 
@@ -119,6 +118,10 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
 * Terrain face à la porte 1 près des vélos
 * Arbres et buisson
 
+![render_arbre](https://user-images.githubusercontent.com/78884924/216162243-62f71502-2c40-4cc7-b42d-831b07b1f35d.png)
+
+* Simulation
+
 
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
@@ -134,8 +137,6 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
 https://github.com/Kawabongaaa/LumaSol/milestones
 
 *Dates importantes :*
-- Première itération : lundi x novembre
-- Prototype finale : lundi x décembre
 - Visite à l'UQAM - Pavillon Emery (présentation projet): 6 février de 14h à 16h;
 - Utilisation du petit studio pour autre cours (Françoise Lavoie Pilote): 14 février;
 - Visite des étudiant.es de 1re année: jeudi 23 février (9h50 et 13h30) et vendredi 24 février (9h50);
@@ -155,23 +156,25 @@ Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:
 https://github.com/tim-montmorency/66B-modele_de_projet/issues
 
 ## Rôles et responsabilités des membres de l'équipe
-> Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
-
 
 **Michaël**
-- Coordination générale du projet
+- Coordination générale du projet.
+- Chargé de la parti technique du vélo.
 - [Issues GitHub assigné](https://github.com/Kawabongaaa/LumaSol/issues/assigned/MichaelSimardVaudry)
 
 **Skayla**
-- Coordination artistique
+- Coordination artistique.
+- En charge de la partie Lumiere et sonore du projet.
 - [Issues GitHub assigné](https://github.com/Kawabongaaa/LumaSol/issues/assigned/skayla-nelie)
 
 **Pénélope**
-- Coordination artistique
+- Coordination artistique.
+- Principalement chargé de la partie Éclerage du projet.
 - [Issues GitHub assigné](https://github.com/Kawabongaaa/LumaSol/issues/assigned/Penelope-M)
 
 **Éloïse**
-- Coordination technique
+- Coordination technique.
+- Principalement chargé de la partie Sonore du projet.
 - [Issues GitHub assigné](https://github.com/Kawabongaaa/LumaSol/issues/assigned/Paracoco)
 
 Liste des tâches dans Git Hub:  
@@ -182,7 +185,7 @@ Liste des tâches dans Git Hub:
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
-- **Mardi, Samedi ,Dimanche(11h-12h)** : Rencontre de suivi de projet.
+- **Mardi, Samedi ,Dimanche(11h-12h)** : Rencontre principale de suivi de projet.
 
 Autre: 
 - **Lundi (vers 14h30), Vendredi(matin)** : Rencontre de suivi de projet.
