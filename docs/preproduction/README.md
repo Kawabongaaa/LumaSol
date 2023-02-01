@@ -40,6 +40,17 @@ Il s'agit d'une expérience multimédia où vous pouvez interagir avec la lumiè
 
 ## Scénario, scénarimage ou document audio/visuel
 
+![LumaSol-board-00006](https://user-images.githubusercontent.com/78884924/216165162-092f1422-7864-483e-8bc3-b1ad0243268e.png)
+![LumaSol-board-00007](https://user-images.githubusercontent.com/78884924/216165170-5beeb3ab-4c1f-430b-b904-3b03000d772d.png)
+![LumaSol-board-00008](https://user-images.githubusercontent.com/78884924/216165173-ff5eeb9b-7e2d-47a9-9ef4-82b3e217c02e.png)
+![LumaSol-board-00009](https://user-images.githubusercontent.com/78884924/216165177-ffd3dc6c-6bde-4259-9b10-902ea27871d9.png)
+![LumaSol-board-00010](https://user-images.githubusercontent.com/78884924/216165181-0a01cc00-9101-4135-80a5-c05a339bbe6b.png)
+![LumaSol-board-00011](https://user-images.githubusercontent.com/78884924/216165183-3c2fc703-9161-4cfd-a42a-26d58d354846.png)
+![LumaSol-board-00012](https://user-images.githubusercontent.com/78884924/216165184-e5025c28-496e-4a22-b0ff-1c07f26c13e3.png)
+![LumaSol-board-00014](https://user-images.githubusercontent.com/78884924/216165191-9bf9d2e8-0f9d-477b-8632-f7bf2cab1837.png)
+![diagramme_branchement drawio (1)](https://user-images.githubusercontent.com/78884924/216165194-ee74623f-2022-4a68-a8a9-905389d3f661.png)
+
+
 # Contenu multimédia à intégrer
 
 ## Inventaire du contenu multimédia
@@ -57,7 +68,7 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
 ## Schémas ou plans techniques
 ### Schéma de branchement 
 
-![diagramme_branchement drawio](https://user-images.githubusercontent.com/78884924/215005195-476bf858-bcf8-4e6a-85bb-78464970dd22.png)
+![diagramme_branchement drawio (1)](https://user-images.githubusercontent.com/78884924/216164747-810b16e4-3773-4b07-bdec-979be971a9dd.png)
 
 
 ## Matériel de scénographie requis
