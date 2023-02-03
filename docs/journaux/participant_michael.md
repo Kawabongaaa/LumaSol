@@ -73,7 +73,7 @@ Avancer sur le budget pour pouvoir le remettre avant la fin de la semaine et pou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-- Oui, j'ai fait tout els tache que je m'étais assigner la semaine derniere et même plus. Donc je suis satisfais de mon travail.
+- Oui, j'ai fait toutes les taches que je m'étais assigné la semaine dernière et même plus. Donc, je suis satisfait de mon travail.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 X
@@ -85,13 +85,13 @@ X
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Je crois encore que nous sommes dans les temps. Parce que dès que nous avons un problem, nous nous rencontrons rapidement pour remedier a ce problème. De plus, cette semaine nous nous sommes pris moins a la derniere minute pour faire la video. ce qui est positif et avons terminer plus de te tâche que supposé.
+Je crois encore que nous sommes dans les temps. Parce que dès que nous avons un problème, nous nous rencontrons rapidement pour remédier à ce problème. De plus, cette semaine nous nous sommes pris moins à la dernière minute pour faire la vidéo. ce qui est positif et avons terminé plus de te tâche que supposé.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 X
 
 ### Défis pour la prochaine semaine
-J'aimerais pour la semaine prochaine, debuter le prototypage sur le vélo et continuer de deployer des issu pour prévoir la suite du projet à l'avance
+J'aimerais pour la semaine prochaine, débuter le prototypage sur le vélo et continuer de déployer des issu pour prévoir la suite du projet à l'avance
 
 ---
 ## Semaine 3 
