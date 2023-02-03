@@ -60,7 +60,10 @@ Faire une rencontre avec l'équipe pour raffiner les modifications du projet et 
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+- Compléter la liste de matériaux à louer et acheter
+- Faite le scénario
+- Faite nos 2 videos de 4 mins
+- Mesurer l'emplacement de notre projet pour les lumières
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -69,12 +72,13 @@ Faire une rencontre avec l'équipe pour raffiner les modifications du projet et 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ - Fait la semaine 2 du journal
+ - Faite le scénario
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -82,18 +86,20 @@ Faire une rencontre avec l'équipe pour raffiner les modifications du projet et 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Finaliser la préproduction, mais encore quelques modifications a faire du à des changement sur notre projet avec la rencontre du commité technique.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
-
+- Trouver des échantillons de musique
+- Commencer des sons
+- Réajuster les dernières petites modifications dans la préproduction
 
 ---
 ## Semaine 3 
