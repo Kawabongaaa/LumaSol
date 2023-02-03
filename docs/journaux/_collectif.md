@@ -1,25 +1,6 @@
 # Journal de création
 
 ## Semaine 9
-> Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
-
-
-Cette semaine a été parsemée de défis.
-![défis](medias/exemple_general.jpg)
-
-Tout d’abord, comme prévu, nous avons terminé de créer nos images dans Photoshop et le contenu 3D dans Maya. Nous avons également avancé la programmation multimédia du projet dans le logiciel Max et Unity.
-![exemple photoshop](medias/exemple_photoshop.jpg)
-
-Par la suite, nous avions prévu une séance d’enregistrement audio dans les studios de son. Cependant, misère (!), une panne d’électricité a eu lieu durant notre séance! Nous avons donc dû remettre celle-ci à quelques jours plus tard. (Nous avons beaucoup ri de cette situation.)
-
-![Enregistrement en studio](medias/exemple_studio1.jpg)
-
-Enfin, nous venons de commencer à mettre en espace le projet dans le grand studio du collège. Nos projecteurs viennent tout juste d’être installés! 
-![Projecteurs installés](medias/exemple_projector.jpg)
-
-On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
-
-
 
 ## Semaine 8
 
@@ -34,6 +15,20 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 ## Semaine 3
 
 ## Semaine 2
+
+Cette semaine, nous avons finaliser notre budget ainsi que la commande de touts:
+![image](https://user-images.githubusercontent.com/78884924/216632884-7495d58a-ecf4-4976-a119-ad0cd2785ea6.png)
+![image](https://user-images.githubusercontent.com/78884924/216633027-2d9bc63a-c186-4ea8-9fe1-bcb051272043.png)
+
+Nous avons aussi terminé notre video d'intention V2:
+![image](https://user-images.githubusercontent.com/78884924/216633493-9a5eb858-655e-46e5-90fa-2680f9c1182d.png)
+
+Nous avons créée une une nouvelle simulation pour mieu présenter notre projet:
+![render_arbre](https://user-images.githubusercontent.com/78884924/216634213-cd34a44a-04c6-45c6-839a-38520638adfb.png)
+
+Nous avons aussi terminé notre scénarimage:
+![image](https://user-images.githubusercontent.com/78884924/216634880-dfc03c34-c022-43a7-ab74-4c9c65d4c527.png)
+
 
 ## Semaine 1
 
