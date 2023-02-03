@@ -69,6 +69,7 @@ Faire une rencontre avec l'équipe pour raffiner les modifications du projet et 
 
 ![Screenshot 2023-02-02 225943](https://user-images.githubusercontent.com/70410591/216509507-029eacf9-c729-4903-be46-21103c9f9c1a.png)
 ![image (1)](https://user-images.githubusercontent.com/70410591/216509508-d2aa2ab5-302c-44b8-8e54-656bc23578b8.png)
+![Screenshot 2023-02-02 230027](https://user-images.githubusercontent.com/70410591/216509604-1d17e881-a285-4972-9000-91eea3397696.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
