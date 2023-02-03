@@ -56,7 +56,7 @@ Pendant le tout le temps que la personne pédale, les lumières de l’arbre cha
 ![LumaSol-board-00012](https://user-images.githubusercontent.com/78884924/216165184-e5025c28-496e-4a22-b0ff-1c07f26c13e3.png)
 ![LumaSol-board-00014](https://user-images.githubusercontent.com/78884924/216165191-9bf9d2e8-0f9d-477b-8632-f7bf2cab1837.png)
 Arrêt : 
-Dès que l’utilisateur arête de pédaler tout s’arrête et retourne doucement en état de veille.
+Dès que l’utilisateur arrête de pédaler tout s’arrête et retourne doucement en état de veille.
 
 ![diagramme_branchement drawio (1)](https://user-images.githubusercontent.com/78884924/216165194-ee74623f-2022-4a68-a8a9-905389d3f661.png)
 
