@@ -56,12 +56,14 @@ Avancer sur le budget pour pouvoir le remettre avant la fin de la semaine et pou
 
 ### Résumé des réalisations effectuées
 - Coordination du projet( Séparation des taches).
-- cration de visuel pour la video d'intention V2.
+- Création de visuel pour la video d'intention V2.
 - Ajout d'issue pour le futur du projet.
+- Production de la vidéo.
+- Mise en place du budget final.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![render_arbre](https://user-images.githubusercontent.com/78884924/216169418-44ef5ec1-b07e-41e7-b695-08484debbde9.png)
-(J'ai refait une simulation plus realiste pour notre projet.)
+(J'ai refait une simulation plus réaliste pour notre projet.)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
@@ -71,7 +73,7 @@ Avancer sur le budget pour pouvoir le remettre avant la fin de la semaine et pou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-- Oui, .
+- Oui, j'ai fait tout els tache que je m'étais assigner la semaine derniere et même plus. Donc je suis satisfais de mon travail.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 X
@@ -83,13 +85,13 @@ X
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Je crois encore que nous sommes dans les temps. Parce que dès que nous avons un problem, nous nous rencontrons rapidement pour remedier a ce problème. De plus, cette semaine nous nous sommes pris moins a la derniere minute pour faire la video. ce qui est positif.
+Je crois encore que nous sommes dans les temps. Parce que dès que nous avons un problem, nous nous rencontrons rapidement pour remedier a ce problème. De plus, cette semaine nous nous sommes pris moins a la derniere minute pour faire la video. ce qui est positif et avons terminer plus de te tâche que supposé.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 X
 
 ### Défis pour la prochaine semaine
-Avancer sur le budget pour pouvoir le remettre avant la fin de la semaine et pouvoir commander ce qu'il nous faut. Aussi, je vais devoir regarder de façon plus approfondie sur comment construire le circuit qui se trouvera à l'intérieur du vélo
+J'aimerais pour la semaine prochaine, debuter le prototypage sur le vélo et continuer de deployer des issu pour prévoir la suite du projet à l'avance
 
 ---
 ## Semaine 3 
