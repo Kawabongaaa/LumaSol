@@ -67,6 +67,8 @@ Faire une rencontre avec l'équipe pour raffiner les modifications du projet et 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![Screenshot 2023-02-02 225943](https://user-images.githubusercontent.com/70410591/216509507-029eacf9-c729-4903-be46-21103c9f9c1a.png)
+![image (1)](https://user-images.githubusercontent.com/70410591/216509508-d2aa2ab5-302c-44b8-8e54-656bc23578b8.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
