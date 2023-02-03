@@ -38,9 +38,16 @@ Il s'agit d'une expérience multimédia où vous pouvez interagir avec la lumiè
 ### Référence
 > ![moodboard_lumasol](https://user-images.githubusercontent.com/78884924/215009415-4b9d5f8f-adb8-4cda-8767-23aa3979bbf9.png)
 
-## Scénario, scénarimage ou document audio/visuel
-
+## Scénario, scénarimage ou document audio/visuel	
+État de veille :
+Quelques spots de lumière sont installés à terre pour  éclairer l’arbre et le vélo en état de veille Avec une musique qui joue constamment.
 ![LumaSol-board-00006](https://user-images.githubusercontent.com/78884924/216165162-092f1422-7864-483e-8bc3-b1ad0243268e.png)
+
+Pédale :
+Lorsque quelqu’un commence à pédaler sur le vélo, des bâtons lumineux  s’allume de chaque coté du vélo jusqu'à l’arbre suivit des boules dans l’arbre représentant des feuilles.
+
+Boucle saisons :
+Pendant le tout le temps que la personne pédale, les lumières de l’arbre changerons en boucles représentant les 4 saisons accompagnées d’une trame sonore pour chaque saison.
 ![LumaSol-board-00007](https://user-images.githubusercontent.com/78884924/216165170-5beeb3ab-4c1f-430b-b904-3b03000d772d.png)
 ![LumaSol-board-00008](https://user-images.githubusercontent.com/78884924/216165173-ff5eeb9b-7e2d-47a9-9ef4-82b3e217c02e.png)
 ![LumaSol-board-00009](https://user-images.githubusercontent.com/78884924/216165177-ffd3dc6c-6bde-4259-9b10-902ea27871d9.png)
@@ -48,6 +55,9 @@ Il s'agit d'une expérience multimédia où vous pouvez interagir avec la lumiè
 ![LumaSol-board-00011](https://user-images.githubusercontent.com/78884924/216165183-3c2fc703-9161-4cfd-a42a-26d58d354846.png)
 ![LumaSol-board-00012](https://user-images.githubusercontent.com/78884924/216165184-e5025c28-496e-4a22-b0ff-1c07f26c13e3.png)
 ![LumaSol-board-00014](https://user-images.githubusercontent.com/78884924/216165191-9bf9d2e8-0f9d-477b-8632-f7bf2cab1837.png)
+Arrêt : 
+Dès que l’utilisateur arête de pédaler tout s’arrête et retourne doucement en état de veille.
+
 ![diagramme_branchement drawio (1)](https://user-images.githubusercontent.com/78884924/216165194-ee74623f-2022-4a68-a8a9-905389d3f661.png)
 
 
