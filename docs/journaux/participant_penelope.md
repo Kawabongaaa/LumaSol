@@ -72,7 +72,7 @@
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [x ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -80,7 +80,7 @@
  Parce que c'est beaux.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais faire des modifications pour la couleurs du idles je crois. Il va falloir faire des tests
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
