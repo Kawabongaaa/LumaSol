@@ -66,17 +66,18 @@
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![LumaSol-board-00008](https://user-images.githubusercontent.com/90867349/216508651-7d58dad7-9eed-4459-9c94-fffb91bd3691.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Parce que c'est beaux.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
