@@ -56,40 +56,45 @@ Planifier plus de rencontres, filmer la préprodution de notre projets afin de l
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
+-Débuter la bande-sonore
+-Mettre à jour l'inventaire de contenu multimédia
+-Discuter la programmation des lumières
+-Mettre le budget à jour
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+<img width="776" alt="Capture d’écran, le 2023-02-02 à 23 01 35" src="https://user-images.githubusercontent.com/90851580/216509722-56ec2e10-25b3-4112-8644-6a3865c259db.png">
+Recherche d'inspiration pour bande sonore
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [x] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai beaucoup de travaux à faire à faire à cause de mes autres cours, alors ce n'est pas facile pour moi de tout compléter.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Demander au membre de mon équipe de m'aider.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Je vais pouvoir commencer la bande sonore que la semaine prochaine
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+alleger ma charge de travail
 
 ### Défis pour la prochaine semaine
-
+finir bande sonore
 
 ---
 ## Semaine 3 
