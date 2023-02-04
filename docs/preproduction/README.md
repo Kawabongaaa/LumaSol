@@ -60,7 +60,7 @@ Pédale :
 Lorsque quelqu’un commence à pédaler sur le vélo, des bâtons lumineux  s’allume de chaque coté du vélo jusqu'à l’arbre suivit des boules dans l’arbre représentant des feuilles.
 
 Boucle saisons :
-Pendant le tout le temps que la personne pédale, les lumières de l’arbre changerons en boucles représentant les 4 saisons accompagnées d’une trame sonore pour chaque saison.
+Pendant tout le temps que la personne pédale, les lumières de l’arbre changerons en boucles représentant les 4 saisons accompagnées d’une trame sonore pour chaque saison.
 ![LumaSol-board-00007](https://user-images.githubusercontent.com/78884924/216165170-5beeb3ab-4c1f-430b-b904-3b03000d772d.png)
 ![LumaSol-board-00008](https://user-images.githubusercontent.com/78884924/216165173-ff5eeb9b-7e2d-47a9-9ef4-82b3e217c02e.png)
 ![LumaSol-board-00009](https://user-images.githubusercontent.com/78884924/216165177-ffd3dc6c-6bde-4259-9b10-902ea27871d9.png)
