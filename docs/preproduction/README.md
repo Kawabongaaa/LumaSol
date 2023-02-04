@@ -71,9 +71,6 @@ Pendant tout le temps que la personne pédale, les lumières de l’arbre change
 Arrêt : 
 Dès que l’utilisateur arrête de pédaler tout s’arrête et retourne doucement en état de veille.
 
-![diagramme_branchement drawio (1)](https://user-images.githubusercontent.com/78884924/216165194-ee74623f-2022-4a68-a8a9-905389d3f661.png)
-
-
 # Contenu multimédia à intégrer
 
 ## Inventaire du contenu multimédia
