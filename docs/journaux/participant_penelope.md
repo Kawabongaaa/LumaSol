@@ -77,26 +77,26 @@
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- Parce que c'est beaux.
+ Parce que c'est beaux et je suis satifaite de mon travail.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Je vais faire des modifications pour la couleurs du idles je crois. Il va falloir faire des tests
+Je vais faire des modifications pour la couleurs du idles (lumière) je crois. Il va falloir faire des tests en temps réel
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+-Finir le journal, j'ai eu des imprévus.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+-Le finir le plus tôt possible
 
 ### Défis pour la prochaine semaine
-
+-Travailler la lumière sur madmapper avec Skyla
 
 ---
 ## Semaine 3 
