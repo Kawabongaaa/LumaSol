@@ -101,9 +101,11 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
 > Liste des équipements requis par département 
 
 * Lumière
-    * Dream Line adressable
-    * 50 DMX dot 5w ?
+    * LED Strip DMX
+    * DMX Dot String
     * Boules lumineuses 200mm
+    * Boule lumineuses 36"
+    * Tubes opal 1m, 1,5m, 2m
    
 
 * Électricité
@@ -113,16 +115,14 @@ Voir colonne dans l'[Inventaire du contenu à intégrer](https://cmontmorency365
     * 2 microControleurs
 
 * Ordinateur
-    * 2 Raspberry Pi ou 1 mac mini
+    * 1 mac mini
     
 * Autre
     * 2 détecteurs de rotation des pédales
     * 2 microControleurs
     * 2 Haut-parleurs
     * 2 Caisson étanche
-    * Magrétomètre
-    * 2 Chaufrette/ Ampoule
-    
+    * Magrétomètre   
     
     
 
