@@ -97,6 +97,7 @@ Je vais faire des modifications pour la couleurs du idles (lumière) je crois. I
 
 ### Défis pour la prochaine semaine
 -Travailler la lumière sur madmapper avec Skyla
+-Écrire le texte pour le comité communication
 
 ---
 ## Semaine 3 
