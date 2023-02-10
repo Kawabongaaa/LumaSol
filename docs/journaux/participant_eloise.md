@@ -107,21 +107,23 @@ Finaliser la préproduction, mais encore quelques modifications a faire du à de
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- Trouvé des inspirations pour les sons
+- Commencer à créer de la musique
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![VCV Rack Free 2 1 2 - test_projet_03 vcv 2023-02-09 8_13_26 PM](https://user-images.githubusercontent.com/70410591/217975327-e4248b0f-d989-4973-8368-60631ad73311.png)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Encore quelques petits détails à modifier dans le github (refaire le logo)
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -129,7 +131,7 @@ Finaliser la préproduction, mais encore quelques modifications a faire du à de
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -140,7 +142,8 @@ Finaliser la préproduction, mais encore quelques modifications a faire du à de
 
 
 ### Défis pour la prochaine semaine
-
+- Avancer les sons
+- Commencer le prototypage
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
