@@ -56,10 +56,10 @@ Planifier plus de rencontres, filmer la préprodution de notre projets afin de l
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
--Débuter la bande-sonore
--Mettre à jour l'inventaire de contenu multimédia
--Discuter la programmation des lumières
--Mettre le budget à jour
+- Débuter la bande-sonore
+- Mettre à jour l'inventaire de contenu multimédia
+- Discuter la programmation des lumières
+- Mettre le budget à jour
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -99,8 +99,8 @@ finir bande sonore
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
--Début de la bande sonore
--Planification pour le début de madmapper
+- Début de la bande sonore
+- Planification pour le début de madmapper
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
