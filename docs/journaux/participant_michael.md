@@ -94,7 +94,48 @@ X
 J'aimerais pour la semaine prochaine, débuter le prototypage sur le vélo et continuer de déployer des issu pour prévoir la suite du projet à l'avance
 
 ---
-## Semaine 3 
+## Semaine 3
+---
+
+### Résumé des réalisations effectuées
+- Coordination du projet( Séparation des taches).
+- Gestion des articles a commander.
+- Ajout de média à notre liste.
+- Mise en place dune fichier qui simule les datait d'un vélo.
+
+### Image d'une réalisation dont tu es la ou le plus fier
+![image](https://user-images.githubusercontent.com/78884924/217968837-1c248174-6304-48e5-b468-f2302e9bba8e.png)
+(J'ai commencé a faire les fichier pour simuler un moteur.)
+
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
+- [ ] Complètement
+- [X] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+#### Décrivez pourquoi.
+- Plus ou moins, parce que cette semaine je voulais commencer à travailler sur le prototypage du vélo mais malheureusement je n'avais pas de vélo donc j'ai dû mettre en place un fichier pour simuler la présence d'un vélo.
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+- Heureusement, la semaine prochaine je devrais commencer à avoir le matériel pour débuter le prototypage.
+
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### S'il y a des écarts, décrivez-les.
+- Oui, ce que j'ai fait cette semaine a finalement tout été terminé.
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+X
+
+### Défis pour la prochaine semaine
+J'aimerais pour la semaine prochaine vraiment vraiemtn commancer a travailer sur le circuit du vélo.
+
 ---
 ## Semaine 4
 ---
