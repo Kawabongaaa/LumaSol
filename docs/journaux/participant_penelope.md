@@ -102,40 +102,43 @@ Je vais faire des modifications pour la couleurs du idles (lumière) je crois. I
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+-Écrire le texte pour le comité communication
+-Discussion équipe mercredi avec Daryl
+-Planifier la procédure pour faire la vidéo avec madmapper
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![ici est une description de l'image](medias/job1.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [x] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Parce que nous n'avons pas encore commencer les vidéos pour la lumière sur madmapper mais il est prévu de commencer cela le 9 février.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous avons prévu un moment pour le faire le plus tôt possible (dont demain)
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
-
+Non avons finis la pré-production, il reste juste a commencer a faire la vidéo pour la lumière et la trame sonore. Il fallait prioriser la prise la trame sonore avant la lumière. Il faut aussi prendre la photo a l'extérieur.
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Prendre la photo demain et planifier en avance.
 
 ### Défis pour la prochaine semaine
-
+-Prendre photo des lieux la nuit
+-Vidéo lumière pour madmapper
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
