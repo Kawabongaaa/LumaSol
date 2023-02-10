@@ -99,39 +99,42 @@ finir bande sonore
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+-Début de la bande sonore
+-Planification pour le début de madmapper
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+<img width="787" alt="Capture d’écran, le 2023-02-09 à 23 09 31" src="https://user-images.githubusercontent.com/90851580/217998639-3702371c-ccb2-4a67-9af6-f872be4edc05.png">
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [x] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Étant donné que j'ai plusieur tache en même temps, il se peut parfois que je mette plus de temps ailleurs
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+refaire mon agenda afin de bien gérer mon temps
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Un peu
+- [x] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Il n'y a pas vraiment de gros écart, mais le mieux serait de le finir le plus tot possible.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
-
+finir les tache le plus importante en premier
 ### Défis pour la prochaine semaine
+Finir la bande sonore et le faire approuver par l'équipe et les profs
 
 ---
 ## Semaine 4
