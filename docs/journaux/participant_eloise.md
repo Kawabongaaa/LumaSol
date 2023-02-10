@@ -136,7 +136,7 @@ Finaliser la préproduction, mais encore quelques modifications a faire du à de
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Il me reste à refaire le logo puis continuer d'avancer les sons pour qu'on puisse faire des test avec le matériel à venir.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
