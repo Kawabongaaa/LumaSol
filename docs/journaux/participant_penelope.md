@@ -137,8 +137,8 @@ Non avons finis la pré-production, il reste juste a commencer a faire la vidéo
 Prendre la photo demain et planifier en avance.
 
 ### Défis pour la prochaine semaine
-- Prendre photo des lieux la nuit
-- Vidéo lumière pour madmapper
+-Prendre photo des lieux la nuit
+-Vidéo lumière pour madmapper
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
