@@ -144,6 +144,7 @@ Il me reste à refaire le logo puis continuer d'avancer les sons pour qu'on puis
 ### Défis pour la prochaine semaine
 - Avancer les sons
 - Commencer le prototypage
+- Refaire le logo
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
