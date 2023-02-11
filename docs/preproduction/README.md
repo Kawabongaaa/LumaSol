@@ -29,10 +29,10 @@
 # Intention ou concept
 
 ## Intention de départ
-Dans le cadre de ce projet, nous voulons démontrer l'importance pour les humains de demeurer en contact avec la nature en raison de l'urgence climatique que nous vivons actuellement. C'est par l'action, en pédalant dans ce cas, qu'on peut avoir un impact positif sur l'environnement lumineux. Le projet LumaSol donne la possibilité de rester en contact avec la nature.
+Dans le cadre de ce projet, nous voulons démontrer l'importance pour les humains de demeurer en contact avec la nature en raison de l'urgence climatique que nous vivons actuellement. C'est par l'action, en pédalant dans ce cas, qu'on peut avoir un impact positif sur l'environnement lumineux. 
 
 ## Synopsis
-Il s'agit d'une expérience multimédia où vous pouvez interagir avec la lumière et un rythme musicale à partir d'un vélo stationnaire. Quand quelqu'un monte sur le vélo et pédale, cela illumine les Dels qui entourent l'arbre et celles qui seront suspendues aux bouts de certaines branches sous la forme de feuilles. D'autres DEl en forment de fleurs seront sur les plantes environnantes . Toutes ces DEL adressables s'éclairent selon le rythme de l'utilisateur et s'arrêtent automatiquement dès qu'il arrête de pédalé. Les couleurs sont prédéfinis en avance.
+Il s'agit d'une expérience multimédia où vous pouvez interagir avec la lumière et un rythme musicale à partir d'un vélo stationnaire. Quand quelqu'un monte sur le vélo et pédale, cela illumine les Dels qui entourent l'arbre et celles qui seront suspendues aux bouts de certaines branches sous la forme de feuilles. D'autres DEl en forment de fleurs seront sur les plantes environnantes . Toutes ces DEL adressables s'éclairent selon le rythme de l'utilisateur et s'arrêtent automatiquement dès qu'il arrête de pédalé . Les couleurs sont prédéfinis en avance et chaque changement de lumières représente une saison. Cela représente le cycle des saisons.
 
 ## Tableau d'ambiance (*moodboard*)
 ### Référence
