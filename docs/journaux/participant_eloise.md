@@ -168,7 +168,7 @@ Il me reste à refaire le logo puis continuer d'avancer les sons pour qu'on puis
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- Les prototypages on très bien avancer, par contre je n'ai pas travailler sur le logo.
+ Les prototypages on très bien avancer. Le son, les vidéos pour les lumières et la lecture des données de la roue fonctionne, par contre je n'ai pas travailler sur le logo.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
