@@ -148,21 +148,27 @@ Il me reste à refaire le logo puis continuer d'avancer les sons pour qu'on puis
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+- Fait un échantillon d'une trame sonore
+- Commencer les prototypages
+- Tester les lumières
+- Tester le son
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![IMG_20230214_151109341](https://user-images.githubusercontent.com/70410591/219498419-4f92bfb6-f5e4-416c-a250-81a61a1db221.jpg)
+![IMG_20230214_150816577](https://user-images.githubusercontent.com/70410591/219498421-f301acf8-8496-45a9-a5df-56a5b67f2ac9.jpg)
+![IMG_20230216_102034067](https://user-images.githubusercontent.com/70410591/219498422-45966b88-8b29-423b-9f31-161c0157cac5.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Les prototypages on très bien avancer, par contre je n'ai pas travailler sur le logo.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -170,7 +176,7 @@ Il me reste à refaire le logo puis continuer d'avancer les sons pour qu'on puis
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -181,7 +187,8 @@ Il me reste à refaire le logo puis continuer d'avancer les sons pour qu'on puis
 
 
 ### Défis pour la prochaine semaine
-
+- Crééer les autres bandes sonore pour le reste des saisons
+- Tester le son avec les videos sur Max.
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
