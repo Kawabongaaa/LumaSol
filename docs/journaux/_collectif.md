@@ -11,6 +11,11 @@
 ## Semaine 5
 
 ## Semaine 4
+Nous avons commencer nos prototypages. Les lumières, sons et roue fonctionnent bien pour un premier test.
+![moteur](https://user-images.githubusercontent.com/70410591/219708458-ac53bf8e-683a-4c11-904a-8fcd103b7b1d.jpg)
+![speakers](https://user-images.githubusercontent.com/70410591/219708465-229b8434-65ea-422f-babb-68ad91602cba.jpg)
+![baton_boule_lumiere](https://user-images.githubusercontent.com/70410591/219708469-9dd63355-dd23-4355-a792-c05c34acec4f.jpg)
+![lumieres](https://user-images.githubusercontent.com/70410591/219708473-c98677e0-8894-480f-9ce5-da07948133f2.jpg)
 
 ## Semaine 3
 Nous avons debuter les effets sonore.
