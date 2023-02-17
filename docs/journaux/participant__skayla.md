@@ -141,7 +141,9 @@ Finir la bande sonore et le faire approuver par l'équipe et les profs
 ### Résumé des réalisations effectuées
 
 - Finir contenu video pour les lumiere dans madmapper
-Commencer le code de max
+- Commencer le code de max
+
+
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
