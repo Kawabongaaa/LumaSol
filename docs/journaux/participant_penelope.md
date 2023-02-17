@@ -146,6 +146,7 @@ Prendre la photo demain et planifier en avance.
 -Vidéo lumière hiver 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![ici est une description de l'image](medias/lumiere.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
