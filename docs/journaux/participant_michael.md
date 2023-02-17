@@ -139,6 +139,43 @@ J'aimerais pour la semaine prochaine vraiment vraiemtn commancer a travailer sur
 ---
 ## Semaine 4
 ---
+
+### Résumé des réalisations effectuées
+- mise en place d'un échéancier.
+- pdubut et quasi fin du prototypage du circuit électrique du vélo. 
+
+### Image d'une réalisation dont tu es la ou le plus fier
+
+(J'ai commencé a faire les fichier pour simuler un moteur.)
+
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
+- [x] Complètement
+- [ ] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+#### Décrivez pourquoi.
+- cette semaine j'ai avancé beaucoup plus vite que prévu dans le prototypage du vélo. donc je crois que je suis meme en avance sur ce que je m'étais fixé.
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+- (NA)
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### S'il y a des écarts, décrivez-les.
+- Oui, ce que j'ai fait cette semaine a finalement tout été terminé.
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+X
+
+### Défis pour la prochaine semaine
+- Selon l'échéancier prévu, la semaine prochaine je vais devoir terminé complètement le prototypage du circuit du vélo(Max -> MadMapper).
+---
 ## Semaine 5
 ---
 ## Semaine de rattrapage
