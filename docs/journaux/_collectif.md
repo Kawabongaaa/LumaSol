@@ -13,6 +13,16 @@
 ## Semaine 4
 
 ## Semaine 3
+Nous avons debuter les effets sonore.
+![image](https://user-images.githubusercontent.com/78884924/219541423-fed05f74-d259-422b-a5c8-91e9c6016129.png)
+![image](https://user-images.githubusercontent.com/78884924/219541465-3a3a91d3-e93e-455d-b28d-cad6bbbca51f.png)
+
+Nous avons aussi debuter a travailer sur Max pous simuler la présence d'un vélo.
+![image](https://user-images.githubusercontent.com/78884924/219541591-75cb63dc-1fb4-4866-bd13-bb27797362b8.png)
+
+Finalement, vous avons aussi débuté les vidéos sur After Effect.
+![image](https://user-images.githubusercontent.com/78884924/219541735-c639d1c1-04ef-466c-82a8-dc252df6063c.png)
+
 
 ## Semaine 2
 
