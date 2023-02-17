@@ -161,26 +161,26 @@ Prendre la photo demain et planifier en avance.
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- J'ai finis la vidéo lumière pour hiver.
+ J'ai finis la vidéo lumière pour hiver. Cela fait pas l'effet que j'avais espéré au départ, mais cela reste beau.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Chercher des ressources ou demander de l'aide au profs sur after effect, mais je vais priorisé d'autres tâches à accomplir que de perfectionné ce qui est déjà satisfaisant.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+J'avais voulu aussi faire la vidéo de lumière pour automne aussi, mais cela aurait été irréalisable.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais le faire la semaine prochaine, je l'ai déjà un peu commencer cette semaine.
 
 ### Défis pour la prochaine semaine
-
+-Faire la vidéo pour la lumière sur After effect et la tester sur Madmapper
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
