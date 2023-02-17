@@ -145,8 +145,9 @@ J'aimerais pour la semaine prochaine vraiment vraiemtn commancer a travailer sur
 - pdubut et quasi fin du prototypage du circuit électrique du vélo. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![image](https://user-images.githubusercontent.com/78884924/219538521-7036812d-8f3e-4828-a05b-4caa2332ab3d.png)
 
-(J'ai commencé a faire les fichier pour simuler un moteur.)
+(Moi qui fais tourner la roe avec une drill :) )
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
