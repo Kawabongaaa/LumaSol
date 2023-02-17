@@ -143,7 +143,11 @@ Prendre la photo demain et planifier en avance.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
--Vidéo lumière hiver 
+-Vidéo lumière hiver
+-Test madmapper des lumières
+-Photo nuit
+-Text pour commité communication
+
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/lumiere.png)
@@ -157,7 +161,7 @@ Prendre la photo demain et planifier en avance.
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai finis la vidéo lumière pour hiver.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
