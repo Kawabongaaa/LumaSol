@@ -140,7 +140,8 @@ Finir la bande sonore et le faire approuver par l'équipe et les profs
 ## Semaine 4
 ### Résumé des réalisations effectuées
 
-
+- Finir contenu video pour les lumiere dans madmapper
+Commencer le code de max
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
@@ -148,12 +149,12 @@ Finir la bande sonore et le faire approuver par l'équipe et les profs
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai pu faire des test avec nos lumières et j'ai également eu le temps d'apporter des corrections a ma création pour refaire des testes. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -162,17 +163,18 @@ Finir la bande sonore et le faire approuver par l'équipe et les profs
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Un peu
+- [x] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+La creation du contenu multimédia a intégrer a été effectué dans le temps mais pas le code max
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Demander de l'aide au prof et mes coéquipiers pour la réalisation du code.
 
 ### Défis pour la prochaine semaine
-
+- finir code test max
+- finir mélodie pour bande sonore
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
