@@ -192,21 +192,23 @@ Il me reste à refaire le logo puis continuer d'avancer les sons pour qu'on puis
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+- Test prototypage avec vélo
+- Prototypage des vidéos rassemblées ensemble avec sons
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![DaVinci](https://user-images.githubusercontent.com/70410591/221058244-aaf34e4b-7e1e-4c76-8424-e459945b1f5b.png)
+![video_saisons](https://user-images.githubusercontent.com/70410591/221058245-c35e03a3-f6e1-447a-b129-3e9aed4238a7.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai plutôt fini un prototypages des sons pour faire encore quelques test du changement de sons selon les saisons et l'idle.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -214,7 +216,7 @@ Il me reste à refaire le logo puis continuer d'avancer les sons pour qu'on puis
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -225,7 +227,8 @@ Il me reste à refaire le logo puis continuer d'avancer les sons pour qu'on puis
 
 
 ### Défis pour la prochaine semaine
-
+- Finaliser les sons
+- Refaire des tests avec les sonsplus complet
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
