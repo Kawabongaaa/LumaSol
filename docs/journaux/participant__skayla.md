@@ -146,6 +146,7 @@ Finir la bande sonore et le faire approuver par l'équipe et les profs
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+<img width="776" alt="Capture d’écran, le 2023-02-23 à 23 16 40" src="https://user-images.githubusercontent.com/90851580/221090588-3db6cb86-ae5d-483d-ad5f-d578e961d0b9.png">
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -180,21 +181,23 @@ Demander de l'aide au prof et mes coéquipiers pour la réalisation du code.
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+- Terminer les vidéo de contenu a intégrer
+- Discuter du stage control
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+<img width="1392" alt="Capture d’écran, le 2023-02-23 à 23 15 58" src="https://user-images.githubusercontent.com/90851580/221090567-48dfdc29-c50b-4b07-89f7-225ba398abd8.png">
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Nous avons pu tester notre projet malgré le fait qu'il manquait du contenu
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -203,17 +206,17 @@ Demander de l'aide au prof et mes coéquipiers pour la réalisation du code.
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Un peu
+- [x] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+il y a des écart dans le prototypage
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+le terminer le plus vite possible
 
 ### Défis pour la prochaine semaine
-
+- Terminer bande sonore
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
