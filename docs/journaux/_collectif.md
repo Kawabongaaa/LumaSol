@@ -9,6 +9,12 @@
 ## Semaine 6
 
 ## Semaine 5
+Nous avons débuté la conception des bande sonore pour les saisons.
+![image](https://user-images.githubusercontent.com/78884924/221062388-23c98150-0dd0-40c1-ba84-7431addaba7f.png)
+
+Nous avons terminé notre prototype :)
+![image](https://user-images.githubusercontent.com/78884924/221062463-df9a0c5a-f96c-4002-bf1f-23f2d0947cee.png)
+
 
 ## Semaine 4
 Nous avons commencer nos prototypages. Les lumières, sons et roue fonctionnent bien pour un premier test.
