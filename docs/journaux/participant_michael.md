@@ -179,6 +179,44 @@ X
 ---
 ## Semaine 5
 ---
+
+### Résumé des réalisations effectuées
+- Terminations du prototype 
+- Modification des objets (Location & Achat)
+
+### Image d'une réalisation dont tu es la ou le plus fier
+![image](https://user-images.githubusercontent.com/78884924/219538521-7036812d-8f3e-4828-a05b-4caa2332ab3d.png)
+
+( moi heureux que le prototype soit terminé )
+
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
+- [x] Complètement
+- [ ] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+#### Décrivez pourquoi.
+- Cette semaine j'ai finalement terminé le prototype entier de notre projet.
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+- (NA)
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### S'il y a des écarts, décrivez-les.
+- Oui, ce que j'avais prévu pour cette semaine a tout été terminé.
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+X
+
+### Défis pour la prochaine semaine
+- Selon l'échéancier prévu, la semaine prochaine je vais devoir débuter la mise en place du vrai circuit sur le velo que nois avons.
+---
 ## Semaine de rattrapage
 
 ## Semaine 6
