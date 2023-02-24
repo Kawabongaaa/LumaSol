@@ -184,40 +184,42 @@ Je vais le faire la semaine prochaine, je l'ai déjà un peu commencer cette sem
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+-Vidéo lumière idle
+-Vidéo lumière automne 
+-tester les lumières 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![ici est une description de l'image](medias/lumiere.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai fait plus que demander car j'ai fait la vidéo idle qui était du pour la semaine prochaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+J'ai fait tous ce qui était dû cette semaine
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
-
+-Tester d'avantage le rendu des lumières.
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
