@@ -185,9 +185,9 @@ X
 - Modification des objets (Location & Achat)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![image](https://user-images.githubusercontent.com/78884924/219538521-7036812d-8f3e-4828-a05b-4caa2332ab3d.png)
+![image](https://user-images.githubusercontent.com/78884924/221061962-722148ea-a14e-42b8-9500-7895c827dba9.png)
 
-( moi heureux que le prototype soit terminé )
+( moi qui a terminé le prototype :)) )
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
