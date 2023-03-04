@@ -228,25 +228,27 @@ Il me reste à refaire le logo puis continuer d'avancer les sons pour qu'on puis
 
 ### Défis pour la prochaine semaine
 - Finaliser les sons
-- Refaire des tests avec les sonsplus complet
+- Refaire des tests avec les sons plus complet
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- Montage de toutes les vidéos ensembles
+- Trouver les sons manquants
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![image](https://user-images.githubusercontent.com/70410591/222920312-9d7f1763-978f-444f-a0f3-9f81f14db2ed.png)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai tout les sons que l'on a besoin, par contre les test n'ont pas été les meilleures du à des complications qui devront être arranger la semaine prochaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -254,18 +256,19 @@ Il me reste à refaire le logo puis continuer d'avancer les sons pour qu'on puis
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Reste encore à tester si les sons partent au bon moment avec la vidéo.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
-
+- Avoir les sons synchroniser avec la vidéo
+- Avoir sonobus qui fonctionne
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
