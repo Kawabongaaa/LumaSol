@@ -223,7 +223,7 @@ J'ai fait tous ce qui était dû cette semaine
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+-Rien j'étais malade
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -234,29 +234,29 @@ J'ai fait tous ce qui était dû cette semaine
 - [ ] Complètement
 - [ ] Assez
 - [ ] Peu
-- [ ] Pas du tout
+- [x] Pas du tout
 
 #### Décrivez pourquoi.
  
-
+j'étais malade
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+j'étais malade, dinc je n'ai pas corriger la lumière jaune mais je suis encore dans les temps
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Avancer cette semaine cette semaine
 
 ### Défis pour la prochaine semaine
-
+Faire les correction pour les lumières
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
