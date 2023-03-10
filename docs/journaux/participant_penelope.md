@@ -261,14 +261,18 @@ Faire les correction pour les lumières
 ## Semaine 6
 ### Résumé des réalisations effectuées
 
+-Correction des couleurs lumières pour automne et hiver
+-Création de la vidéo de la lumière pour les luciols
+-Tenter de la connection avec de l'arduino pour les led dans arbustes (luciole)
+-
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![ici est une description de l'image](medias/MIAOU.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -282,17 +286,22 @@ Faire les correction pour les lumières
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+J'ai pris légerement du retard car j'étais malade la semaine passée. Mais j'ai finalisée le contenue médiatique qui m'était assigné.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
+-Aidezr mon équipe a faire les installations dehors.
+-Assurer le bon fonctionnement du projet
+-Publicité de l'évènement
+-Ajouter du contenue médiatique
+-Pratiquer le poème
 
 ---
 ## Semaine 7
