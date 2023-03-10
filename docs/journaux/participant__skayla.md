@@ -220,77 +220,80 @@ le terminer le plus vite possible
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- Finaliser le contenu
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+<img width="1375" alt="Capture d’écran, le 2023-03-10 à 01 35 09" src="https://user-images.githubusercontent.com/90851580/224241606-23b0f2a8-6bc7-4a60-bf02-bf8d8371a0aa.png">
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Amélioration de la création de contenu
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+tout est bon
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Ce n'est pas vraiment un écart, mais il a fallut apporter des modifications.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+prévoir plus de temps
 
 ### Défis pour la prochaine semaine
+Finir la création de contenu
 
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- S'occuper de VNC Viewer et VNC Server
+- Améliorer contenu
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![IMG_8222](https://user-images.githubusercontent.com/90851580/224241632-62f15d07-bfb9-4f50-8ad1-3b993e360ea3.PNG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Tout à été fait
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+rien
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+aucun
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+pas d'écart
 
 ### Défis pour la prochaine semaine
-
+- open stage control
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
