@@ -263,8 +263,9 @@ Finir la création de contenu
 - Améliorer contenu
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![IMG_8222](https://user-images.githubusercontent.com/90851580/224241632-62f15d07-bfb9-4f50-8ad1-3b993e360ea3.PNG)
 
+![IMG_8222](https://user-images.githubusercontent.com/90851580/224242496-9a13eb78-ce98-45ef-b01f-de9fabf3dfa0.PNG)
+Réception du vélo stationnaire
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
