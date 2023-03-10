@@ -215,11 +215,77 @@ X
 X
 
 ### Défis pour la prochaine semaine
-- Selon l'échéancier prévu, la semaine prochaine je vais devoir débuter la mise en place du vrai circuit sur le velo que nois avons.
+- Selon l'échéancier prévu, la semaine prochaine je vais devoir débuter la mise en place du vrai circuit sur le velo que nous avons.
 ---
 ## Semaine de rattrapage
 
+### Résumé des réalisations effectuées
+- Mise ne place du réseau de lumière en ArtNet.
+- Début de la mise en place du vrai circuit électronique.
+
+### Image d'une réalisation dont tu es la ou le plus fier
+![IMG_7213](https://user-images.githubusercontent.com/78884924/224193688-4e456636-3f3c-4864-90cd-2dfb6e551c9e.jpg)
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
+- [x] Complètement
+- [ ] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+#### Décrivez pourquoi.
+Oui, parce que cette semaine, j'ai débuté comme je l'avais prévu le circuit électronique du vélo et puisque nous n'avons pas le vélo, j'ai dû mettre sur pause la mise ne place du circuit. Cependant, j'ai mis en place le réseau de lumière en Art Net puisque j'avais le temps.
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+NA
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### S'il y a des écarts, décrivez-les.
+Je pourais en etre beacoup plus loin si nous avons recu le velo cette semaine mais tout semble quand meme bien avancer.
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+### Défis pour la prochaine semaine
+Continuer la mise ne place du circuit.
+---
 ## Semaine 6
+
+### Résumé des réalisations effectuées
+- Continuité de la mise en place du circuit final.
+- Déblaiment de la zone de diffusion.
+- mise en place du controle des sons via MAX.
+
+### Image d'une réalisation dont tu es la ou le plus fier
+![IMG_7559](https://user-images.githubusercontent.com/78884924/224195264-fb838ede-db10-4a29-b97a-47a42dd5b9d6.jpg)
+(mise en place du controle des sons dépendament du du temps du video)
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
+- [x] Complètement
+- [ ] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+#### Décrivez pourquoi.
+Oui, j'avais prévu de continuer à travailler sur le circuit final et c'est ce que j'ai fait et même plus.
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+NA
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### S'il y a des écarts, décrivez-les.
+Non, vendredi, je devrais normalement finir de faire mon circuit final. Il ne me reste qu'à mettre le relais et le capteur de volts dans le boitier étanche.
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+### Défis pour la prochaine semaine
+Sortir le vélo a l'extérieur.
+
 ---
 ## Semaine 7
 ---
