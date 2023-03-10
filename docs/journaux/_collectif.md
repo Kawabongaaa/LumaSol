@@ -13,7 +13,10 @@ Nous avons terminé le fichier MAX :
 Nous avons percé des trous dans du fer :
 ![69991125404__79B86D29-B1DB-4DDD-BF38-B36741528332 - Copie](https://user-images.githubusercontent.com/78884924/224197921-a37ab808-d08e-4ffc-a318-fedb53960054.jpg)
 
-https://user-images.githubusercontent.com/78884924/224197453-43b085c1-c619-4db3-8eb1-076566adb3a3.mov
+
+https://user-images.githubusercontent.com/78884924/224198129-9164ab6c-60f8-40bc-9404-d29301b126ea.mov
+
+
 
 Nous avons nettoyé notre emplacement :
 ![IMG_7561](https://user-images.githubusercontent.com/78884924/224197639-6be15ac9-ea3e-48b8-af3b-cde4b2ff64d0.jpg)
