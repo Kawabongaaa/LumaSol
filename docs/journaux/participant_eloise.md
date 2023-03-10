@@ -310,7 +310,8 @@ Reste encore à tester si les sons partent au bon moment avec la vidéo.
 
 
 ### Défis pour la prochaine semaine
-
+- Avoir fini tout les médias
+- Commencer à installer dehors
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
