@@ -272,21 +272,26 @@ Reste encore à tester si les sons partent au bon moment avec la vidéo.
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- Modifier des médias
+- Installation du moteur sur vélo
+- Fait fonctionner sonobus
+- Commencer à pelleter
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![drill](https://user-images.githubusercontent.com/70410591/224193010-ee12f8f7-ec32-465f-9955-beccfa757396.png)
+![pelletage](https://user-images.githubusercontent.com/70410591/224193011-4781e2ef-0914-4879-a577-bd9cfdc5ebc8.jpg)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Pas mal tout fait ce que je voulais faire pour cette semaine, reste juste quelques petits détails à modifiers avec les vidéos.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -294,7 +299,7 @@ Reste encore à tester si les sons partent au bon moment avec la vidéo.
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
