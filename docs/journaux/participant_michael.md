@@ -288,6 +288,42 @@ Sortir le vélo a l'extérieur.
 
 ---
 ## Semaine 7
+
+### Résumé des réalisations effectuées
+- Rectification de problème avec le son sur MAX
+- instalation des lumières.
+- Instalation du vélo.
+- 
+
+
+
+### Image d'une réalisation dont tu es la ou le plus fier
+
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
+- [x] Complètement
+- [ ] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+#### Décrivez pourquoi.
+Oui, nous avons installé tout les lumières et le vélo a l'extérieur!!
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+NA
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### S'il y a des écarts, décrivez-les.
+aucun
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+x
+### Défis pour la prochaine semaine
+Finir le cable managment. 
 ---
 ## Semaine 8
 ---
