@@ -315,21 +315,25 @@ Reste encore à tester si les sons partent au bon moment avec la vidéo.
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+- Installé tout dehors
+- Débogage du son
+- Débogage des lumières
+- Solidification des fils des batons à terre
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![cabanon](https://user-images.githubusercontent.com/70410591/225902618-1d597b4f-a012-4c3f-9df3-8ee112c590a3.jpg)
+![lumiere](https://user-images.githubusercontent.com/70410591/225902625-42a82e1f-8b1b-4ebf-8c07-25fdd5ed4989.jpg)
+![camera](https://user-images.githubusercontent.com/70410591/225902629-01e09015-b22b-4d60-b898-371d89b08a71.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Touts est installés dehors et touts fonctionnent. Il ne manque plus que de tester les lumières le soir pour mieu voir.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -337,7 +341,7 @@ Reste encore à tester si les sons partent au bon moment avec la vidéo.
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -348,7 +352,9 @@ Reste encore à tester si les sons partent au bon moment avec la vidéo.
 
 
 ### Défis pour la prochaine semaine
-
+- Débogage du projet
+- Présentation du projet
+- Ajuster les derniers petits détails dans les vidéos
 
 ## Semaine 8
 
