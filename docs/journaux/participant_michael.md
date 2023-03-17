@@ -298,7 +298,7 @@ Sortir le vélo a l'extérieur.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![DSC09996](https://user-images.githubusercontent.com/78884924/225914776-75b9fea1-c2b4-41cb-8ad3-405ddd371262.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [x] Complètement
