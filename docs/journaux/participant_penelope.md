@@ -306,40 +306,47 @@ J'ai pris légerement du retard car j'étais malade la semaine passée. Mais j'a
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+-Aidez mon équipe pour les installations dehors
+-branchement des fils
+-Ajout du contenu médiatique
+-Prise de photos et vidéo de l'équipe en travaille pour la gallerie d'image du site internet de l'école et pour la vidéo du projet
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![DSC00427](https://user-images.githubusercontent.com/90867349/225945673-c8bf55c5-9730-4448-b589-39cc70419b64.JPG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Les photos sont pas visibles sur le site de l'école
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Revérivier mon code sur gitup et demander l'aide aux profs.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Mises à part que les photos ne sont pas visibles sur le site, il faudrait retoucher au vidéo de lumières pour l'effet des led.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Faire ça le soir pour voir mieux le résultat des lumières et tester le site web.
 
 ### Défis pour la prochaine semaine
-
+-refaire vidéo pour l'effet des leds
+-faire le montage de la vidéo promotion
+-faire les intervues
+-ajouter tous les images sur le site une fois le problème résolu.
 
 ## Semaine 8
 
