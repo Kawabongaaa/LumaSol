@@ -6,6 +6,10 @@
 
 ## Semaine 7
 
+
+![image](https://user-images.githubusercontent.com/70410591/227353362-3c637d0b-6e37-4197-810f-623fb6690521.png)
+Installation des caméras
+
 ## Semaine 6
 Nous avons terminé le fichier MAX :
 ![IMG_7559](https://user-images.githubusercontent.com/78884924/224197228-6d39c74a-e2d6-4772-b659-d0a33acd0245.jpg)
