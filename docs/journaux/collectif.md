@@ -1,10 +1,7 @@
 # Journal de création
-
-## Semaine 9
-
 ## Semaine 8
-![DSC00240](https://user-images.githubusercontent.com/70410591/227356214-2226b08c-3bed-45cb-bd96-6ca3f35483a0.jpg)
-![DSC00240](https://user-images.githubusercontent.com/70410591/227356335-fb4b7809-1645-4ff4-933c-c6541a630beb.jpg)
+![DSC00468 (1)](https://user-images.githubusercontent.com/70410591/227358270-00a66609-fa9c-45e6-8e87-736a8c4f6e94.jpg)
+![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/70410591/227358287-668dee52-15ec-4cba-b2e1-8def52e15c65.png)
 
 ## Semaine 7
 ![DSC00240](https://user-images.githubusercontent.com/70410591/227354780-da41206f-e6b1-4696-a651-fc1ac56168fb.jpg)
