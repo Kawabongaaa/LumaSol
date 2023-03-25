@@ -1,5 +1,5 @@
 # Production du projet *LumaSol*
-Projet étudiant élaboré durant l'automne 2022 et mise en place ont l'hiver 2023
+Projet étudiant élaboré durant l'automne 2022 et mise en place durant l'hiver 2023. Archivé le 2023-03-25
 
 ## vous trouverez ici la documentation complete pour l'élaboration de notre projet intitulé *LumaSol*
 Crée par :
