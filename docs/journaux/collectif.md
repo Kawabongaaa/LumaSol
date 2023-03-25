@@ -4,15 +4,13 @@
 ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/70410591/227358287-668dee52-15ec-4cba-b2e1-8def52e15c65.png)
 
 ## Semaine 7
-![DSC00240](https://user-images.githubusercontent.com/70410591/227354780-da41206f-e6b1-4696-a651-fc1ac56168fb.jpg)
+
+![instalation](https://user-images.githubusercontent.com/78884924/227745010-781bcaa7-8a98-41d5-8c2a-ea81e635b133.jpg)
+![DSC00240](https://user-images.githubusercontent.com/70410591/227355425-956ae37d-19e7-41ff-a388-f2ebfd057c32.jpg)
 Nous avons débuté l'installation extérieur.
 
-![DSC00240](https://user-images.githubusercontent.com/70410591/227355425-956ae37d-19e7-41ff-a388-f2ebfd057c32.jpg)
+![arbre](https://user-images.githubusercontent.com/78884924/227744982-43574054-88d7-4776-a5d0-617b9cfaee1e.jpg)
 Nous avons installé les lumières dans l'arbre.
-
-![DSC00240](https://user-images.githubusercontent.com/70410591/227355958-578641bd-8217-47ed-b623-76ac4e42a49c.jpg)
-![DSC00240](https://user-images.githubusercontent.com/70410591/227356086-7412f644-a1d5-43bc-b254-c497d0bef0bd.jpg)
-
 
 ![image](https://user-images.githubusercontent.com/70410591/227353362-3c637d0b-6e37-4197-810f-623fb6690521.png)
 Installation des caméras
